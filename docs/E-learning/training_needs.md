@@ -1,0 +1,12 @@
+# Identify and assess training needs
+
+SIB e-learning courses complement the SIB Training courses ([Identify and assess training needs](https://sib-training.gitlab.io/sib-training-cookbook/topic/training_needs/)) - they do not replace them. SIB e-learning courses may be used to ensure that participants to SIB Training courses have the necessary background, for example, the e-learning course on [UNIX Fundamentals](https://www.sib.swiss/training/e-learning) can be taken if the course "First Steps with UNIX in Life Sciences" can not be attended. Like SIB Training courses, their hallmark is the combination of theory and practice. E-learning is meant for those who wish to learn through self-study, on a specific topic, and at their own pace. 
+
+e-learning courses are freely accesible (do not require credentials to login) [SIB Swiss Institute of Bioinformatics E-learning Portal](https://edu.sib.swiss/). Participants who complete e-learning courses are thus not issued with a certificate or with ECTS credits.
+
+It is important to determine that the topic will interest a large, world-wide audience. SIB e-learning courses should not duplicate courses given elsewhere. Topics falling in this category are identified through discussion with the trainers giving SIB Training courses. The topics covered by the e-learning courses are generally basic topics for beginners. 
+
+E-learning courses can replace introductory courses to SIB resources which will interest a world-wide audience, for example, the e-learning course on [ISMARA: A tool to infer genome-wide regulatory interactions](https://www.sib.swiss/training/course/2022_ISMARA) or [Cellosaurus : A resource on cell lines](https://www.sib.swiss/training/course/2022_CLLRS). In this way, more advanced topics on the SIB resources can be offered in SIB Training courses. Topics falling in this category are identified by establishing which SIB resources have not yet been the topic of a SIB Training course. Note that the EBI proposes many courses on UniProtKB; hence, only UniProtKB topics which are not covered by EBI courses will be considered for SIB e-learning courses, for example, [ViralZone](https://www.sib.swiss/training/course/2023_VRLZN).  
+
+E-learning courses may also cover transversal topics of interest to a large audience and include several modules, for example, the e-learning course on [SARS-CoV-2 : Studying a new virus](https://www.sib.swiss/training/course/2021_SCOV2).
+

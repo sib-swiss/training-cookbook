@@ -1,0 +1,68 @@
+site_name: SIB Training Cookbook
+nav:
+    - Home: index.md
+    - Topics: 
+      - Identify and assess training needs: topic/training_needs.md      
+      - Course Design: topic/course_design.md
+      - ECTS credits and Exam: topic/ECTS_exam.md
+      - Course Evaluation: topic/course_evaluation.md
+      - Make course materials open and FAIR: topic/open_FAIR.md
+      - Metadata mapping: topic/metadata.md
+    - Procedures:
+      - Course Programme and Planning: procedure/course_programme.md
+      - Call for New Courses: procedure/call_new_courses.md
+      - Design the Course: procedure/design_course.md
+      - Course material life cycle: procedure/course_material.md
+      - Deliver the Course:
+        - Delivering the Course: procedure/delivering_course/deliver_course.md
+        - Types of courses: procedure/delivering_course/type_course.md
+      - Course Coordination:
+        - Course Description: procedure/course_description.md
+        - Participants:
+          - Open and announce the course: procedure/participants/open_course.md
+          - Register Participants: procedure/participants/register_participants.md
+          - Manage Payments: procedure/participants/manage_payments.md
+          - Send practical information to registered participants: procedure/participants/send_info.md
+          - Attendance list and exams: procedure/participants/attendance_exam.md
+          - Thank participants: procedure/participants/thank_participants.md
+          - Update courseadmin (after course): procedure/participants/after_course.md
+          - Certificates: procedure/participants/certificate.md
+        - Feedback: procedure/feedback.md
+        - Record Lectures: procedure/record_lectures.md
+        - Course Administrative tasks: procedure/admin_tasks.md
+        - Reimbursements: procedure/reimbursements.md
+        - Course Locations: procedure/course_location.md
+    - E-learning:
+      - Identify and assess training needs: E-learning/training_needs.md
+      - Course plan: E-learning/course_plan.md
+    - Glossary: Glossary.md
+
+theme:
+  name: material
+  logo: assets/images/SIB_logo.svg
+  favicon: assets/images/SIB_logo.svg
+
+# Repository
+repo_name: sib-training/sib-training-cookbook
+repo_url: https://gitlab.com/sib-training/sib-training-cookbook
+markdown_extensions:
+  - abbr
+  - def_list
+  - footnotes
+  - tables
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - sane_lists
+  - smarty
+  - toc
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
