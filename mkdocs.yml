@@ -43,8 +43,8 @@ theme:
   favicon: assets/images/SIB_logo.svg
 
 # Repository
-repo_name: sib-training/sib-training-cookbook
-repo_url: https://gitlab.com/sib-training/sib-training-cookbook
+repo_name: sib-swiss/training-cookbook
+repo_url: https://github.com/sib-swiss/training-cookbook
 markdown_extensions:
   - abbr
   - def_list
