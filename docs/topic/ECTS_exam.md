@@ -15,7 +15,7 @@ Without an evaluation or assessment, SIB awards a certificate of attendance indi
 
 Exams are an optional but beneficial step in our courses, enhancing our image as reliable partners and providing value to students and their universities.
 
-To recap, 1 ECTS in Switzerland, and most (European countries)[https://en.wikipedia.org/wiki/European_Credit_Transfer_and_Accumulation_System], is worth 25-30 hours of effort, based on the defined learning outcomes and their associated workload.
+To recap, 1 ECTS in Switzerland, and most [European countries](https://en.wikipedia.org/wiki/European_Credit_Transfer_and_Accumulation_System), is worth 25-30 hours of effort, based on the defined learning outcomes and their associated workload.
 
 In a regular day of course at SIB, we start at 9h and end around 17h. Removing 1 hour for lunch and 30 minutes for coffee breaks, we count 6.5 hours in total. Dividing by 25-30 hours, we get a range of 0.26-0.21 ECTS, simplified to 0.25 ECTS per day of course. This margin accounts for exam time.
 
