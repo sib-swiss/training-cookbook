@@ -4,16 +4,16 @@ One of SIB's core missions is to enhance the bioinformatics skills and competenc
 
 Before finalizing the annual course schedule, we evaluate various types of needs and requests, which are gathered from multiple sources:
 
-- Participant Feedback: Collected at the end of each course through the Short-Term Feedback survey ([see Short-Term Feedback form - how to make one](https://sib-training.gitlab.io/sib-training-cookbook/procedure/feedback/)).
-- Course Metrics Analysis: Reviewing data from previous years' courses.
-- Training Advisory Committee Feedback: Insights and recommendations from the committee.
-- Group Leaders and Principal Investigators: Ideas and requests from key stakeholders.
-- Annual Call for New Courses: Soliciting new course ideas, typically once a year.
-- Emerging Topics: Addressing new and relevant topics of interest to SIB.
+- **Participant Feedback**: Collected at the end of each course through the Short-Term Feedback survey ([see Short-Term Feedback form - how to make one](https://sib-training.gitlab.io/sib-training-cookbook/procedure/feedback/))..
+- **Course Metrics Analysis**: Reviewing data from previous years' courses.
+- **Training Advisory Committee Feedback**: Insights and recommendations from the committee.
+- **Group Leaders and Principal Investigators**: Ideas and requests from key stakeholders.
+- **Annual Call for New Courses**: Soliciting new course ideas, typically once a year.
+- **Emerging Topics**: Addressing new and relevant topics of interest to SIB.
 
+The feedback from **#Participants** is crucial and is gathered through two main methods:
 
-The feedback from **#participants** is crucial and is gathered through two main methods:
+1. **Topic Selection**: Participants can select topics of interest from a provided list, allowing us to count the number of times a topic is chosen. This list is reviewed and updated every 3-5 years.
+2. **Free Text Comments**: Participants can emphasize existing topics or suggest new ones, providing additional insights into their training needs.
 
-- 1. Topic Selection: Participants can select topics of interest from a provided list, allowing us to count the number of times a topic is chosen. This list is reviewed and updated every 3-5 years.
-- 2. Free Text Comments: Participants can emphasize existing topics or suggest new ones, providing additional insights into their training needs.
 By systematically collecting and analyzing this feedback, we ensure our training programs remain relevant and valuable to our diverse audience.
