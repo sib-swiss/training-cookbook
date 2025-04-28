@@ -1,13 +1,18 @@
 # Course design 
 
-A good place to start is to recommend that the trainer follows the [ELIXIR-GOBLET Train-the-Trainer (TtT) Course](https://elixir-europe.org/platforms/training/train-the-trainer). A second step would be to consider reading the materials of the [TtT Course](https://github.com/TrainTheTrainer/EXCELERATE-TtT). 
 
-Four core topics form the basis the [TtT Course](https://github.com/TrainTheTrainer/EXCELERATE-TtT) structure:
+### Course Design
 
-- Principles of learning and how they apply to training;
-- Training techniques for enhancing learner engagement and participation,
-- Design of engaging sessions, materials and courses;
-- Assessment and feedback in training and teaching.
+
+A good starting point for trainers is to follow the [ELIXIR-GOBLET Train-the-Trainer (TtT) Course](https://elixir-europe.org/platforms/training/train-the-trainer). Additionally, reading the materials provided in the [TtT Course](https://github.com/TrainTheTrainer/EXCELERATE-TtT) can be highly beneficial.
+
+The [TtT Course](https://github.com/TrainTheTrainer/EXCELERATE-TtT) is structured around four core topics:
+
+1. **Principles of Learning**: Understanding how learning principles apply to training.
+2. **Training Techniques**: Enhancing learner engagement and participation.
+3. **Design of Sessions, Materials, and Courses**: Creating engaging and effective training sessions and materials.
+4. **Assessment and Feedback**: Implementing effective assessment and feedback methods in training and teaching.
+
 
 **References**
 
