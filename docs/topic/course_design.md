@@ -1,9 +1,6 @@
 # Course design 
 
 
-### Course Design
-
-
 A good starting point for trainers is to follow the [ELIXIR-GOBLET Train-the-Trainer (TtT) Course](https://elixir-europe.org/platforms/training/train-the-trainer). Additionally, reading the materials provided in the [TtT Course](https://github.com/TrainTheTrainer/EXCELERATE-TtT) can be highly beneficial.
 
 The [TtT Course](https://github.com/TrainTheTrainer/EXCELERATE-TtT) is structured around four core topics:

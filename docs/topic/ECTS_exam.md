@@ -1,51 +1,51 @@
-# ECTS credits and Exam 
+# ECTS Credits and Exam
 
-## How to calculate ECTS credits – rules adopted in July 2014
+## How to Calculate ECTS Credits – Rules Adopted in July 2014
 
-Trying to better align with the European Community rules of ECTS attribution, and for the sake of clarity and coherence within SIB, and between SIB and its partner universities, we have defined some internal rules that are summarised as the following: 
+To better align with the European Community rules of ECTS attribution, and to ensure clarity and coherence within SIB and between SIB and its partner universities, we have defined the following internal rules:
 
-1. A 1-day SIB workshop/course is worth 0.25 ECTS. SIB workshops/courses spanning 2, 3 or 4 days are worth 0.5, 0.75 or 1 ECTS respectively. In the case of substantial extra work (post-reports, preparing reading material, exercises, etc.), the equivalent workload will be calculated and indicated accordingly. 
+- A 1-day SIB workshop/course is worth 0.25 ECTS. Workshops/courses spanning 2, 3, or 4 days are worth 0.5, 0.75, or 1 ECTS respectively. If substantial extra work is required (post-reports, preparing reading material, exercises, etc.), the equivalent workload will be calculated and indicated accordingly.
+- A 5-day SIB workshop/course is worth 1.5 ECTS (5 x 0.25, plus 0.25 for self-study during that week). With substantial extra work, it can be worth 2 ECTS.
 
-2. A 5-day SIB workshop/course is worth 1.5 ECTS (5 x 0.25, and 0.25 for self-study during that week). In the case of substantial extra work (post-reports, preparing reading material, exercises, etc.), it can be worth 2 ECTS. 
+Credits are recommended after successful assessment, validation, or recognition of the learning outcomes by the trainers.
 
-3. The associated credits will be recommended after successful assessment, validation or recognition of the learning outcomes by the trainers. 
+Without an evaluation or assessment, SIB awards a certificate of attendance indicating the workload (number of hours, types of activities). With an evaluation or assessment, SIB awards a certificate of “successfully passing” indicating the workload and recommending the number of ECTS.
 
-4. Without an evaluation or assessment, the SIB will award a certificate of attendance indicating the workload (number of hours, types of activities). With an evaluation or assessment, the SIB will award a certificate of "successfully passing" indicating the workload (number of hours, types of activities) and recommending the number of ECTS. 
+## Exam Guidelines
 
-Our exams are a nice to have step in our courses. With that we are making a favor for the students and their universities. On the other hand, it’s very good for our image - we are recognized by them as reliable partners. 
+Exams are an optional but beneficial step in our courses, enhancing our image as reliable partners and providing value to students and their universities.
 
-To recap, 1 ECTS in Switzerland (and in most [European countries](https://en.wikipedia.org/wiki/European_Credit_Transfer_and_Accumulation_System)) is worth 25-30 hours of effort - the "volume of learning based on the defined learning outcomes and their associated workload". 
+To recap, 1 ECTS in Switzerland (and most (European countries)[https://en.wikipedia.org/wiki/European_Credit_Transfer_and_Accumulation_System]) is worth 25-30 hours of effort, based on the defined learning outcomes and their associated workload.
 
-In a regular day of course at SIB, we start at 9h and end around 17h. If we remove 1 hour for lunch and 30’ for coffee-breaks, we count 6.50 hours in total. And if we divide by 25 – 30 hours, we have a range of 0.26 - 0.21 ECTS, which we simplify to 0.25 ECTS per day of course. You can see that we have a little margin (25-30 hours) on this calculation, and that margin is used for the time spent on the exam.  
+In a regular day of course at SIB, we start at 9h and end around 17h. Removing 1 hour for lunch and 30 minutes for coffee breaks, we count 6.5 hours in total. Dividing by 25-30 hours, we get a range of 0.26-0.21 ECTS, simplified to 0.25 ECTS per day of course. This margin accounts for exam time.
 
-The minimum required to give this 0.25 credit is that the participants attend the course, but we go a little further, and check as well if they 1) “listened” and going even further if they 2) are able to achieve the learning outcomes. We are not obliged to go up to 2. We do it because we are good teachers and reliable partners.  But we can’t and we don’t want to go over **0.25 ECTS** per day of teaching/workload.  
+The minimum requirement for awarding 0.25 ECTS is participant attendance. We also check if participants 1) listened and 2) achieved the learning outcomes during the course. We aim to be good teachers and reliable partners but do not exceed **0.25 ECTS** per day of teaching/workload.
 
-So we **can’t and we don’t want** to ask participants to do an exam that would take longer than 30’ (7 hours / 25 = 0.28 (!) – 7 hours / 30 = 0.23) per day of course.  
+Exams should not exceed 30 minutes per day of course (7 hours / 25 = 0.28; 7 hours / 30 = 0.23).
 
-### Exam corrections:
-the longer the exam, the longer it takes for learners to do the exam, and to trainers to correct. And all the chain is on hold (our **#Admin** and **#Participant** waiting for certificates).  
+#### Exam Corrections
 
-Other rules:  
+- Longer exams take more time for learners to complete and trainers to correct, delaying the entire process (Admin and Participants waiting for certificates).
 
-- For a **#Participant**: an exam shouldn’t take more than 30’ per day of course. Make it simple(r)!  
-- For **#Participant**: No more than 48 hours to send the exam back to teachers 
-- For **#Trainers**: No more than 48 hours for the teachers to send back the results to the **#Manager** and **#Admin** 
-- The certificates should be sent to the **#Participant** at latest 2 weeks after the end of a course! 
+#### Other Rules
 
-### Types of exams
-that can be discussed with the **#Trainers**: 
+- For participants: Exams should not take more than 30 minutes per day of course. Keep it simple!
+- For participants: Exams should be returned to teachers within 2 - 7 days after the course ended.
+- For trainers: Results should be sent back to the manager and admin within a resonable short time period.
+- Certificates should be sent to participants within 2 weeks after the course ends.
 
-- Multiple-choice: are good options for courses with some Theory, and that are repeated often. 
-- Extra-exercise/activity: It should be an exercise that will not take much time to be corrected. 
-- Sometimes the **#Trainers** correct together an exercise with the students that are interested in the credits, doing a follow up and extra oral questions. 
-- Oral exam at the end of the course 
+#### Types of Exams
 
- 
+Discussed with trainers:
 
-**With or without ECTS credits – who decides**
+- **Multiple-choice**: Suitable for courses with some theory and repeated often.
+- **Extra-exercise/activity**: Should be quick to correct.
+- **Collaborative correction**: Trainers may correct exercises with students interested in credits, including follow-up and oral questions.
+- **Oral exam**: Conducted at the end of the course.
 
-It’s not mandatory that a SIB course has ECTS associated to it. It’s recommended but not mandatory. Providing ECTS requires extra work from the **#Trainer**, the **#Trainer** has thus the right to decide if the course will have ECTS.  
+#### With or Without ECTS Credits – Who Decides
+It is not mandatory for a SIB course to have ECTS credits. It is recommended but not mandatory. Providing ECTS requires extra work from the trainer, who has the right to decide if the course will have ECTS.
 
-**Who validates the ECTS credits for the #Participant**
+#### Who Validates the ECTS Credits for Participants
 
-For SIB courses with an evaluation, we deliver certificates with the number of ECTS credits for those who succeeded in the assessment. Then, the **#Participant** can ask their university or PhD program to validate these credits according to their rules.
+For SIB courses with an evaluation, we deliver certificates with the number of ECTS credits for those who succeeded in the assessment. Participants can then ask their university or PhD program to validate these credits according to their rules.
