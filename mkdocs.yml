@@ -33,8 +33,12 @@ nav:
         - Reimbursements: procedure/reimbursements.md
         - Course Locations: procedure/course_location.md
     - E-learning:
-      - Identify and assess training needs: E-learning/training_needs.md
-      - Course plan: E-learning/course_plan.md
+      - Identify and assess e-learning needs: E-learning/elearning_needs.md
+      - E-learning design: E-learning/elearning_design.md
+      - E-learning material: E-learning/elearning_material.md
+      - E-learning evaluation: E-learning/elearning_evaluation.md
+      - Make e-learning materials open and FAIR: E-learning/elearning_openandFAIR.md
+      - Course coordination: E-learning/elearning_coordination.md
     - Glossary: Glossary.md
 
 theme:
