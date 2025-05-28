@@ -10,7 +10,7 @@ In order to book a room in the different course Locations, see the contact perso
 
 ### Social Aperitive 
 
-When the **#Manager** asks for a social aperitive (normally for courses of 3 or more days long), **#Admin** must look for a restaurant and book a table corresponding to the max number of participants + the trainers, indicating to the restaurant that this number is maximum and ask for deadline about fixing the definitive number and the menu choices. The following procedure should be followed: 
+When the **#Manager** asks for a social aperitive (only when the **#Trainer** agrees), **#Admin** must look for a restaurant or catering service, and book a table corresponding to the max number of participants + the trainers, indicating to the restaurant that this number is maximum and ask for deadline about fixing the definitive number and the menu choices. The following procedure should be followed: 
 
 **#Admin** should look for a bar or restaurant accommodating an aperitive, including small dishes and beverages. 
 **#Admin** must request a group package with a vegetarian option and drinks, ensuring the budget per person does not exceed 30 CHF.
