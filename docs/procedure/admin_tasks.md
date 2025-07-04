@@ -30,9 +30,9 @@ In order to book the coffee breaks in the different course Locations, see the co
 
 D+5/7, **#Admin** adds the participants to the mailing list and if applicable, adds the participants from industry to the two industry lists.  
 
-When **#Admin** receives the OK from **#Manager**, **#Admin** must send the certificates (go to the page of the course concerned on Courseadmin and select all the “registered” then click on “SEND CERTIFICATE”) and create the feedbacks to be sent to the **#Trainers** (Export in pdf format the answers of the participants - The link is on line 30 of the task list - then manually insert the answers to questions 10-11-12). In addition, **#Admin** must create the feedbacks to be uploaded on elixir (Demographic and quality metrics) by using the templates.  
+When **#Admin** receives the OK from **#Manager**, **#Admin** creates the feedbacks to be sent to the **#Trainers** (Export in pdf format the answers of the participants - The link is on line 30 of the task list - then manually insert the answers to questions 10-11-12). In addition, **#Admin** must create the feedbacks to be uploaded on elixir (Demographic and quality metrics) by using the templates.  
 
-At the end of the month, **#Admin** sends an email to Sabine and Jean-Sébastien to cancel the pendings and to refund participants who cancelled in compliance with our rules (status CANCELLED). There are two different cases to handle: 
+At the end of the month, **#Admin** sends an email to the financial department to cancel the pendings and to refund participants who cancelled in compliance with our rules (status CANCELLED). There are two different cases to handle: 
 
 Cancel pending entries: these are participants who have registered but who have not participated in the course and who have never paid the fees. The registration status is “cancelled”, and the registration fee is “pending”. 
 
