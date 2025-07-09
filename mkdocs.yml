@@ -45,6 +45,24 @@ theme:
   name: material
   logo: assets/images/SIB_logo.svg
   favicon: assets/images/SIB_logo.svg
+  theme:
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: "#D40000"
+      accent: "#999999"
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: "#F6D0D0"
+      accent: "#999999"
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 # Repository
 repo_name: sib-swiss/training-cookbook
