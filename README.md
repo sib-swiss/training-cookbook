@@ -1,28 +1,27 @@
 # SIB training cookbook
 
-Hosted at [https://sib-training.gitlab.io/sib-training-cookbook/](https://sib-training.gitlab.io/sib-training-cookbook/). 
+Hosted at [https://sib-swiss.github.io/training-cookbook](https://sib-swiss.github.io/training-cookbook). 
 
 ## How to develop locally
 
 This website is generated with [MkDocs](https://www.mkdocs.org/), with the theme [Material](https://squidfunk.github.io/mkdocs-material/).
 
-To host it locally, install MkDocs:
+To host it locally, clone this repository including the flowchart submodule:
+
 ```bash
-pip install mkdocs
+git clone --recurse-submodules
 ```
 
-and Material:
+Then, install `mkdocs-material`:
 ```bash
 pip install mkdocs-material
 ```
 
-Fork this repository and clone it to your local computer. Then, make the repository your current directory and type:
+To run the website locally, you can use:
 
 ```bash
 mkdocs serve
 ```
-
-To host it locally.
 
 Check it out with your browser at [http://localhost:8000/](http://localhost:8000/).
 
@@ -35,4 +34,4 @@ mkdocs gh-deploy
 This will generate a webpage at:
 
 https://yourname.github.io/reponame
-# training-cookbook
+
