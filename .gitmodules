@@ -1,0 +1,3 @@
+[submodule "docs/topic/FAIR-training-flowchart"]
+	path = docs/topic/FAIR-training-flowchart
+	url = https://github.com/sib-swiss/FAIR-training-flowchart.git
