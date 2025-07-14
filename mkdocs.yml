@@ -34,6 +34,7 @@ nav:
         - Course Locations: procedure/course_location.md
     - E-learning:
       - Identify and assess e-learning needs: E-learning/elearning_needs.md
+      - E-learning plan: E-learning/elearning_plan.md
       - E-learning design: E-learning/elearning_design.md
       - E-learning material: E-learning/elearning_material.md
       - E-learning evaluation: E-learning/elearning_evaluation.md
@@ -86,8 +87,8 @@ markdown_extensions:
   - pymdownx.tabbed
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.snippets:
       auto_append:
         - includes/definitions.md
