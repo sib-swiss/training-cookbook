@@ -20,4 +20,4 @@ Note: There is no reimbursement for a trainer (SIB or non-SIB) when s/he teaches
 
  
 
-In order to get reimbursed, SIB trainers can directly ask for a refund from the online platform. Otherwise, trainers have to fill an expense sheet and send it to **#Admin**. **#Admin** then controls the expense sheet, add the title of the course and the date and send it to Patricia.  
+In order to get reimbursed, SIB trainers can directly ask for a refund from the online platform. Otherwise, trainers have to fill an expense sheet and send it to Admin. Admin then controls the expense sheet, add the title of the course and the date and send it to Patricia.  

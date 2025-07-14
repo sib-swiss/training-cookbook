@@ -8,12 +8,12 @@
  
  
 
-The course material page contains material for the course: Course Information, Pre-course preparation, Schedule, Slides, Exercises, Answers, Literature, Exam, and any material that the **#Trainer** considers pertinent. The course material page is different from the Course description page (that can be visualized in the [Upcoming list of courses](https://www.sib.swiss/training/upcoming-training-courses)).  
+The course material page contains material for the course: Course Information, Pre-course preparation, Schedule, Slides, Exercises, Answers, Literature, Exam, and any material that the Trainer considers pertinent. The course material page is different from the Course description page (that can be visualized in the [Upcoming list of courses](https://www.sib.swiss/training/upcoming-training-courses)).  
 
  
  
 
-Depending on the agreement it can be developed by the **#Trainer** or by the **#Manager**.  
+Depending on the agreement it can be developed by the Trainer or by the Manager.  
 
  
  
@@ -41,12 +41,12 @@ We promote the use of **GitHub**: [Course Page tutorial](https://sib-swiss.githu
  
  
 
-The **#Trainer** uploads the course material to a repository like Zenodo, for example [see link](https://zenodo.org/communities/sib-training/?page=1&size=20) Under the title [Course material](https://sib-training.gitlab.io/sib-training-cookbook/procedure/course_material/).  
+The Trainer uploads the course material to a repository like Zenodo, for example [see link](https://zenodo.org/communities/sib-training/?page=1&size=20) Under the title [Course material](https://sib-training.gitlab.io/sib-training-cookbook/procedure/course_material/).  
 
  
  
 
-If the course material is hosted on a github repository, the **#Trainer**, or anyone with the proper access to the repository, creates a release on github. Then, using a linked zenodo account, they can automatically upload that release on zenodo and have a doi attributed to it. Course released that way should be associated with the “sib-training” [zenodo community ](https://zenodo.org/communities/sib-training/). The person performing the release ensures that **#Trainers** and **#Helpers** are properly mentioned (if possible with their [ORCID](https://orcid.org/)).  
+If the course material is hosted on a github repository, the Trainer, or anyone with the proper access to the repository, creates a release on github. Then, using a linked zenodo account, they can automatically upload that release on zenodo and have a doi attributed to it. Course released that way should be associated with the “sib-training” [zenodo community ](https://zenodo.org/communities/sib-training/). The person performing the release ensures that Trainers and Helpers are properly mentioned (if possible with their [ORCID](https://orcid.org/)).  
 
  
  

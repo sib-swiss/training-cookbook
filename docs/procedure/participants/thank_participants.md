@@ -1,8 +1,8 @@
 # Thank participants 
 
-The **#Manager** organising the course is responsible for thanking the participants. This is done at the end of the course or the day after the course. 
+The Manager organising the course is responsible for thanking the participants. This is done at the end of the course or the day after the course. 
 
-Retrieve the list of names and email addresses of the registered students from **#courseadmin**. For courses with fees, make sure to include only those who have paid. To respect GDPR (General Data Protection Regulation), send the mail to yourself and put the email addresses of the students in Bcc. 
+Retrieve the list of names and email addresses of the registered students from courseadmin. For courses with fees, make sure to include only those who have paid. To respect GDPR (General Data Protection Regulation), send the mail to yourself and put the email addresses of the students in Bcc. 
 
 ## Regular courses with fees 
 

@@ -2,7 +2,7 @@
 
 ## Before the course: 
 
-As soon as the course is confirmed, The **#Manager** asks the **#Admin** to book a room for minimum 30 participants and then update the [coordination-tasks-list.xlsx](https://sibcloud-my.sharepoint.com/:x:/g/personal/patricia_palagi_sib_swiss/EZneXy5SD7lApYqGNzj8vsMB8b67OHWWA3NJgfTcgzvFoA?e=9zFWlL) when the booking is confirmed. 
+As soon as the course is confirmed, The Manager asks the Admin to book a room for minimum 30 participants and then update the [coordination-tasks-list.xlsx](https://sibcloud-my.sharepoint.com/:x:/g/personal/patricia_palagi_sib_swiss/EZneXy5SD7lApYqGNzj8vsMB8b67OHWWA3NJgfTcgzvFoA?e=9zFWlL) when the booking is confirmed. 
 
 
 
@@ -10,17 +10,17 @@ In order to book a room in the different course Locations, see the contact perso
 
 ### Social Aperitive 
 
-When the **#Manager** asks for a social aperitive (only when the **#Trainer** agrees), **#Admin** must look for a restaurant or catering service, and book a table corresponding to the max number of participants + the trainers, indicating to the restaurant that this number is maximum and ask for deadline about fixing the definitive number and the menu choices. The following procedure should be followed: 
+When the Manager asks for a social aperitive (only when the Trainer agrees), Admin must look for a restaurant or catering service, and book a table corresponding to the max number of participants + the trainers, indicating to the restaurant that this number is maximum and ask for deadline about fixing the definitive number and the menu choices. The following procedure should be followed: 
 
-**#Admin** should look for a bar or restaurant accommodating an aperitive, including small dishes and beverages. 
-**#Admin** must request a group package with a vegetarian option and drinks, ensuring the budget per person does not exceed 30 CHF.
-**#Admin** should prepare a Form to collect information on the number of attendees and any dietary requirements (e.g., allergies, intolerances, vegan options). After the registration deadline, usually one week before the event, **#Admin** must confirm the number of participants and any dietary requirements with the venue and cc the **#Manager** on this communication.
+Admin should look for a bar or restaurant accommodating an aperitive, including small dishes and beverages. 
+Admin must request a group package with a vegetarian option and drinks, ensuring the budget per person does not exceed 30 CHF.
+Admin should prepare a Form to collect information on the number of attendees and any dietary requirements (e.g., allergies, intolerances, vegan options). After the registration deadline, usually one week before the event, Admin must confirm the number of participants and any dietary requirements with the venue and cc the Manager on this communication.
 
 ### Trainer Hotel
-If a **#Trainer** is coming from another city, the **#Manager** will ask the **#Admin** to book a hotel room. Once the booking is confirmed, **#Admin** must send a copy of the bill to *SIB Training Director* and *Senior Administrative Assistant*. Then, **#Admin** must send the confirmation of booking to the **#Trainer** and the **#Manager**.  
+If a Trainer is coming from another city, the Manager will ask the Admin to book a hotel room. Once the booking is confirmed, Admin must send a copy of the bill to *SIB Training Director* and *Senior Administrative Assistant*. Then, Admin must send the confirmation of booking to the Trainer and the Manager.  
 
 ### Coffee Breaks
-D-10: **#Admin** must confirm with the **#Manager** the number of participants to the course and then order coffee breaks (morning and afternoon). When the order is confirmed, **#Admin** must notify the **#Manager**.  
+D-10: Admin must confirm with the Manager the number of participants to the course and then order coffee breaks (morning and afternoon). When the order is confirmed, Admin must notify the Manager.  
 
 
 In order to book the coffee breaks in the different course Locations, see the contact person in the [OneNote](https://sibcloud-my.sharepoint.com/personal/patricia_palagi_sib_swiss/_layouts/15/Doc.aspx?sourcedoc=%7B62777f84-11f6-4078-a386-712e61b0e9b1%7D&action=edit&wd=target%28Admin.one%7Cc103a835-449f-42f7-a9bd-44b44ee72b7a%2FCourse+Locations%7C09e9cfb9-e762-4f9f-a49a-5d49f5e25475%2F%29&wdorigin=703) page. Each Location contains the email of the contact person and procedure to follow.
@@ -28,38 +28,38 @@ In order to book the coffee breaks in the different course Locations, see the co
 
 ## After the course: 
 
-D+5/7, **#Admin** adds the participants to the mailing list and if applicable, adds the participants from industry to the two industry lists.  
+D+5/7, Admin adds the participants to the mailing list and if applicable, adds the participants from industry to the two industry lists.  
 
-When **#Admin** receives the OK from **#Manager**, **#Admin** creates the feedbacks to be sent to the **#Trainers** (Export in pdf format the answers of the participants - The link is on line 30 of the task list - then manually insert the answers to questions 10-11-12). In addition, **#Admin** must create the feedbacks to be uploaded on elixir (Demographic and quality metrics) by using the templates.  
+When Admin receives the OK from Manager, Admin creates the feedbacks to be sent to the Trainers (Export in pdf format the answers of the participants - The link is on line 30 of the task list - then manually insert the answers to questions 10-11-12). In addition, Admin must create the feedbacks to be uploaded on elixir (Demographic and quality metrics) by using the templates.  
 
-At the end of the month, **#Admin** sends an email to the financial department to cancel the pendings and to refund participants who cancelled in compliance with our rules (status CANCELLED). There are two different cases to handle: 
+At the end of the month, Admin sends an email to the financial department to cancel the pendings and to refund participants who cancelled in compliance with our rules (status CANCELLED). There are two different cases to handle: 
 
 Cancel pending entries: these are participants who have registered but who have not participated in the course and who have never paid the fees. The registration status is “cancelled”, and the registration fee is “pending”. 
 
-Reimburse people who have cancelled their participation in the course and who paid. The registration status is "cancelled", and the registration fee is in “paid cc” (or “paid it” or “authorized cc”, the important thing is that this person has paid but cancelled their registration on time). **#Admin** must check with the **#Manager** or in RT that the participant has informed of the cancellation of his participation before the cancellation deadline (the deadline is indicated on the course description web page). In general, if the status is cancelled, it means that the person has cancelled their participation. If such is the case, the person can be reimbursed. 
+Reimburse people who have cancelled their participation in the course and who paid. The registration status is "cancelled", and the registration fee is in “paid cc” (or “paid it” or “authorized cc”, the important thing is that this person has paid but cancelled their registration on time). Admin must check with the Manager or in RT that the participant has informed of the cancellation of his participation before the cancellation deadline (the deadline is indicated on the course description web page). In general, if the status is cancelled, it means that the person has cancelled their participation. If such is the case, the person can be reimbursed. 
 
-At the end of the month, **#Admin** prepares the accounting of the courses and sends them to Patricia Palagi. To do that, **#Admin** must fill in template course accounting by including the course fees and the travel/course expenses (Catering, hotels, social dinner, etc.) 
+At the end of the month, Admin prepares the accounting of the courses and sends them to Patricia Palagi. To do that, Admin must fill in template course accounting by including the course fees and the travel/course expenses (Catering, hotels, social dinner, etc.) 
 
-## Other **#Admin** tasks: 
+## Other Admin tasks: 
 
 
 **Receipt of payment**: Often students need a payment receipt. Confirmation of payment is generally sufficient, it is accessible when you re-click, after having made the payment, on the payment link in the email of confirmation.  
 
-Sometimes, certain information must be featured in the receipt, in this case, **#Admin** updates his profile in course admin as explained below, then tell the student to re-click on the payment link provided : Find the course on course admin, right click on the course, “Students”, find the student, right click, "edit", scroll all the way down and insert the info in the section “Inv. Address”, “save”, “close”. This section will then appear on the confirmation of payment that the student can find by clicking on the payment link.  
+Sometimes, certain information must be featured in the receipt, in this case, Admin updates his profile in course admin as explained below, then tell the student to re-click on the payment link provided : Find the course on course admin, right click on the course, “Students”, find the student, right click, "edit", scroll all the way down and insert the info in the section “Inv. Address”, “save”, “close”. This section will then appear on the confirmation of payment that the student can find by clicking on the payment link.  
 
-Sometimes, an official invoice is needed. For that, **#Admin** uses the template to create the needed invoice.  
+Sometimes, an official invoice is needed. For that, Admin uses the template to create the needed invoice.  
 
-**RT**: **#Admin** reads the emails. If **#Admin** has the answer, **#Admin** will take the ticket and answer it. If not, **#Admin** will assign it to the appropriate person (usually the **#Manager** of the course). There is a lot of SPAM. For those mails the procedure is the folowing : Bulk update > select mails > scroll down > make queue > choose SPAM > save. 
+**RT**: Admin reads the emails. If Admin has the answer, Admin will take the ticket and answer it. If not, Admin will assign it to the appropriate person (usually the Manager of the course). There is a lot of SPAM. For those mails the procedure is the folowing : Bulk update > select mails > scroll down > make queue > choose SPAM > save. 
 
 **Editing Videos**: 
-- **#Manager** sends to **#Admin** the raw video and the exact timing of the videos to cut. Once **#Admin** finished editing, **#Admin** puts the videos on the cloud.  
-- Youtube: Once **#Manager** confirms that the edited videos are good, **#Admin** uploads the video on YouTube, following the steps of the Tutorial.  
+- Manager sends to Admin the raw video and the exact timing of the videos to cut. Once Admin finished editing, Admin puts the videos on the cloud.  
+- Youtube: Once Manager confirms that the edited videos are good, Admin uploads the video on YouTube, following the steps of the Tutorial.  
 
-**Certificates for Basel students**:  When a student from the University of Basel asks for a “summary” certificate, **#Admin** must create one using the template and add the name of the student and the courses validated in the spreadsheet in order to have a copy of all the credits validated.  
+**Certificates for Basel students**:  When a student from the University of Basel asks for a “summary” certificate, Admin must create one using the template and add the name of the student and the courses validated in the spreadsheet in order to have a copy of all the credits validated.  
 
-**Short-Term Feedback**: Once the feedback is closed, **#Manager** informs **#Admin** that he can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel) with the **#Trainers**. To create the feedback, **#Admin** export the online feedback in PDF format, then using Adobe Acrobat add manually the answers to question 10, 11 and 12 of the feedback.  
+**Short-Term Feedback**: Once the feedback is closed, Manager informs Admin that he can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel) with the Trainers. To create the feedback, Admin export the online feedback in PDF format, then using Adobe Acrobat add manually the answers to question 10, 11 and 12 of the feedback.  
 
-**Long-Term Feedback**: Once per semester, long-term feedback (impact metrics) is sent to participants who have mentioned in the short-term feedback that they agree to participate in this study. **#Admin** is in charge of generating the excel list which includes all the courses that took place between 6 months and one year before as well as all the participants who agreed to take part in this study. First, **#Admin** must fill in the internal excel file with the name courses and dates as well as the participants who participate in the survey. These have entered their email in the very last question that appears on the short-term feedback. All necessary internal information is listed in the excel (course name, start and end date, number of participants, number participants in the study, email template). Secondly, a google form is created. This is simply copied from previous google form. The google form is in the google drive of SIB training > Long term feedback > long term feedback (xxth round). The questions remain same, only the first two drop-down menus need to be changed (names of course, course dates). For each course, an email is sent to each participant by cc. Once the survey response time has passed, the google form must be closed (go to google form > answers > close answers). Statistical data must be entered in the internal excel file. Finally, the data is entered on the ELIXIR platform (impact metrics). To do this, simply export all the answers in xsl format and format the file according to the template. 
+**Long-Term Feedback**: Once per semester, long-term feedback (impact metrics) is sent to participants who have mentioned in the short-term feedback that they agree to participate in this study. Admin is in charge of generating the excel list which includes all the courses that took place between 6 months and one year before as well as all the participants who agreed to take part in this study. First, Admin must fill in the internal excel file with the name courses and dates as well as the participants who participate in the survey. These have entered their email in the very last question that appears on the short-term feedback. All necessary internal information is listed in the excel (course name, start and end date, number of participants, number participants in the study, email template). Secondly, a google form is created. This is simply copied from previous google form. The google form is in the google drive of SIB training > Long term feedback > long term feedback (xxth round). The questions remain same, only the first two drop-down menus need to be changed (names of course, course dates). For each course, an email is sent to each participant by cc. Once the survey response time has passed, the google form must be closed (go to google form > answers > close answers). Statistical data must be entered in the internal excel file. Finally, the data is entered on the ELIXIR platform (impact metrics). To do this, simply export all the answers in xsl format and format the file according to the template. 
 
 **Annual collection of Short-Term Feedback forms**:
 **#Admin Process Guide** See Illustration steps [here](https://sibcloud-my.sharepoint.com/:w:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/Courses/Admin/Short-term%20feedback%20-%20annual%20collection%20Guide.docx?d=wfc34601dbacd4398935a4a05e3ec7fac&csf=1&web=1&e=XzA7JQ) 

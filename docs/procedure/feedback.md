@@ -1,6 +1,6 @@
 # Feedback Form
 
-The **#Manager** can find here the steps to create a feedback form and share with the students and **#Trainer(s)**
+The Manager can find here the steps to create a feedback form and share with the students and **#Trainer(s)**
 
  
 Feedback Guide – Sharepoint 
@@ -53,25 +53,25 @@ Share the Form link steps: Click on the settings of the results (..) “Collabor
 ## Send feedback results to the Trainers? 
  
 For Courses with internal SIB trainers: we can give the link to the form itself with the answers, in case they wish to visualize the feedback results as soon as the course finishes. 
-(Done by the **#Manager**) 
+(Done by the Manager) 
 
 - Click on the settings of the results (..) “Collaborate or Duplicate” 
 - Copy the first link “Share to collaborate” 
 
-The **#Manager** can send it directly to the Trainer (if the trainer belongs to SIB, will have access to the raw results and can visualize all the answers) 
+The Manager can send it directly to the Trainer (if the trainer belongs to SIB, will have access to the raw results and can visualize all the answers) 
 
  
 
-Also, once the feedback is closed, **#Manager** informs **#Admin** that he/she can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel) with the Trainers. The fille name will have the following format: YYYYMMDD_5lettersCode_feedback.pdf. 
+Also, once the feedback is closed, Manager informs Admin that he/she can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel) with the Trainers. The fille name will have the following format: YYYYMMDD_5lettersCode_feedback.pdf. 
 
  
 
 For Courses with external trainers:  
 
-Once the feedback is closed, **#Manager** informs **#Admin** that he can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel or from a print screen in the form) with the Trainers. See [Administrative Tasks](https://sib-training.gitlab.io/sib-training-cookbook/procedure/admin_tasks/). 
+Once the feedback is closed, Manager informs Admin that he can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel or from a print screen in the form) with the Trainers. See [Administrative Tasks](https://sib-training.gitlab.io/sib-training-cookbook/procedure/admin_tasks/). 
 
 Upload the feedback results in the ELIXIR Metrics Database 
-(Done by **#Admin**)
+(Done by Admin)
 
 
 ## Editing the template 

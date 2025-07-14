@@ -4,30 +4,30 @@
 
 **Before the course**
 
-- **#Manager** makes sure he/she has the link and the admin right to host the meeting. In the event he/she cannot be present at the event start, the **#Manager** will communicate the information to the **#Trainer**(s). 
+- Manager makes sure he/she has the link and the admin right to host the meeting. In the event he/she cannot be present at the event start, the Manager will communicate the information to the Trainer(s). 
 
 **During the course** 
 
-- At the beginning of the session, the **#Trainer** or **#Manager** informs the participants about the course recording. 
-- **#Manager** makes sure the course is being recorded. For this, the **#Manager** either activates the automatic recording in the [Zoom meeting setup](https://us02web.zoom.us/profile/setting), or he does it manually at the beginning of the session. Local recording is advised as cloud recording has small storage capacity. Consult SIB Training Coordinators in case of issue(s).  
+- At the beginning of the session, the Trainer or Manager informs the participants about the course recording. 
+- Manager makes sure the course is being recorded. For this, the Manager either activates the automatic recording in the [Zoom meeting setup](https://us02web.zoom.us/profile/setting), or he does it manually at the beginning of the session. Local recording is advised as cloud recording has small storage capacity. Consult SIB Training Coordinators in case of issue(s).  
 
 **After the course**
 
 - At the end of the course, the recording is stopped, and the video file automatically processed and saved in a new sub-folder named according to the date and event name (20xx-xx-xx hh.mm.ss Title). All the generated sub-folders are in the Zoom folder on the local machine. 
-- The **#Manager** asks the **#Trainer** for confirmation that the recording can be processed (in case of technical issues). 
-- **#Manager** (or **#Trainer** if recording was done by him/her) locates the mp4 file in the Zoom folder of his/her local computer. The recording is sent to the **#Manager** if processed on his/her computer. 
-- **#Manager** sends the file (e.g. via [SWITCHfile sender](https://filesender.switch.ch/)) or provides the path (if put on OneDrive) to **#Admin** and gives instructions so that he/she can process the video(s) accurately, in particular **#Manager** will inform if some parts need to be cut. 
-- **#Admin** informs **#Manager** when done. 
+- The Manager asks the Trainer for confirmation that the recording can be processed (in case of technical issues). 
+- Manager (or Trainer if recording was done by him/her) locates the mp4 file in the Zoom folder of his/her local computer. The recording is sent to the Manager if processed on his/her computer. 
+- Manager sends the file (e.g. via [SWITCHfile sender](https://filesender.switch.ch/)) or provides the path (if put on OneDrive) to Admin and gives instructions so that he/she can process the video(s) accurately, in particular Manager will inform if some parts need to be cut. 
+- Admin informs Manager when done. 
 
  
 
 ## Share Video 
 
-The **#Manager** organising the course is responsible for putting the raw video on OneDrive. The **#Manager** also views this video to note the exact start and end time for the sections of the video that should be removed. Doing so shortly after the course, it can be done quickly by using the fast forward option to jump to the transition points in the course. The instructions for editing the video are provided to the **#Admin**.  
+The Manager organising the course is responsible for putting the raw video on OneDrive. The Manager also views this video to note the exact start and end time for the sections of the video that should be removed. Doing so shortly after the course, it can be done quickly by using the fast forward option to jump to the transition points in the course. The instructions for editing the video are provided to the Admin.  
 
-The **#Admin** edits the raw video and puts the edited version on OneDrive. The **#Manager** reviews the edited version to ensure that there are no funnies, and it is ready to be shared on YouTube. 
+The Admin edits the raw video and puts the edited version on OneDrive. The Manager reviews the edited version to ensure that there are no funnies, and it is ready to be shared on YouTube. 
 
-The **#Manager** prepares the information required to upload the edited version to YouTube according to the instructions found here: [YouTube_Upload_Instructions-for-contributors](https://sibcloud.sharepoint.com/:w:/s/T-COMM/EasfsyE0UZFIn1z-NTd2bjcBtKgO9e7KXQ1iFGGzSG9naA?email=training-group%40sib.swiss&e=4%3a7nZ99U&at=9) bearing in mind the following: 
+The Manager prepares the information required to upload the edited version to YouTube according to the instructions found here: [YouTube_Upload_Instructions-for-contributors](https://sibcloud.sharepoint.com/:w:/s/T-COMM/EasfsyE0UZFIn1z-NTd2bjcBtKgO9e7KXQ1iFGGzSG9naA?email=training-group%40sib.swiss&e=4%3a7nZ99U&at=9) bearing in mind the following: 
 
 - **Title**: This is the same as the title of the course. However, if you have split the original video in several videos, you will want to include (1 of n), (2 of n), ...at the end of the title to indicate that these are all a part of the same series of videos. 
 - **Description**: This consists of: 
@@ -45,11 +45,11 @@ The **#Manager** prepares the information required to upload the edited version 
 
 ## Edit Video
 
-The **#Admin** edits the video using the Youtube Editor Studio. Based on the timing of the section decided by the **#Manager**, **#Admin** cuts and arrange the video for it to be ready for publication on youtube. Once it is done, **#Admin** sends the link to the videos to the **#Manager** for validation.  
+The Admin edits the video using the Youtube Editor Studio. Based on the timing of the section decided by the Manager, Admin cuts and arrange the video for it to be ready for publication on youtube. Once it is done, Admin sends the link to the videos to the Manager for validation.  
 
 ## Publishing Video
 
-Done by the **#Admin**
+Done by the Admin
 
 1. Click on the camera Logo, select “Mettre en ligne une vidéo”, then slide the video file or select it directly from your folder.  
 
@@ -61,14 +61,14 @@ Done by the **#Admin**
 
 5. For the audience, select  « Non, elle n’est pas conçue pour les enfants » 
 
-6. Clink on “PLUS” to access more option and insert the tags (Must be separated by a comma in the word document sent by the **#Manager** for them to appear correctly on youtube. After that, add the recording date and click on “SUIVANT” as all the other options are set by default.  
+6. Clink on “PLUS” to access more option and insert the tags (Must be separated by a comma in the word document sent by the Manager for them to appear correctly on youtube. After that, add the recording date and click on “SUIVANT” as all the other options are set by default.  
 
 7. In order to add video suggestions in the video, click on “Ajouter” in the “Ajouter des fiches” section.  
 Click on « + fiche » -> vidéo -> sélectionner la vidéo dans la liste. Then, insert the timing in the field ”Fiche Vidéo” or slide the blue cursor in the timeline (We usually put 30/40 seconds after the beginning or before the end). Multiples ”fiches” can be added.  
 
 8. The last step is the publication. 3 options are given by youtube: 
 s- **Private**: Only accessible to people connected on the SIB account 
-- **Not listed**: Only accessible by people having the link. It won’t appear on the youtube channel. This is the mode the video are in when **#Admin** send them to **#Manager** for validation. 
+- **Not listed**: Only accessible by people having the link. It won’t appear on the youtube channel. This is the mode the video are in when Admin send them to Manager for validation. 
 - **Public**: Is available to anyone and the followers will receive a notification after the publication.  
 
 9. Even if the video is in public mode, modifiying it is still possible in the Youtube studio.  
