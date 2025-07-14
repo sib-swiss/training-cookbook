@@ -11,7 +11,7 @@ Before finalizing the annual course schedule, we evaluate various types of needs
 - **Annual Call for New Courses**: Soliciting new course ideas, typically once a year.
 - **Emerging Topics**: Addressing new and relevant topics of interest to SIB.
 
-The feedback from **#Participants** is crucial and is gathered through two main methods:
+The feedback from Participants is crucial and is gathered through two main methods:
 
 1. **Topic Selection**: Participants can select topics of interest from a provided list, allowing us to count the number of times a topic is chosen. This list is reviewed and updated every 3-5 years.
 2. **Free Text Comments**: Participants can emphasize existing topics or suggest new ones, providing additional insights into their training needs.

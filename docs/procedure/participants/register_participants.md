@@ -1,10 +1,10 @@
 # Register Participants 
 
-The **#Manager** organising the course is responsible for registering applicants. While this can be done only once when the applications exceed the maximum number of participants, it may need to be done in several iterations, starting 1 month prior to the first day of the course. 
+The Manager organising the course is responsible for registering applicants. While this can be done only once when the applications exceed the maximum number of participants, it may need to be done in several iterations, starting 1 month prior to the first day of the course. 
 
 ## Free courses with no maximum
 
-For courses which are free and have no limit on the maximum number of registered participants, all the students who have applied will be registered. In **#courseadmin**: 
+For courses which are free and have no limit on the maximum number of registered participants, all the students who have applied will be registered. In courseadmin: 
 
 - Find the course entry. 
 - Select Students to display all the applicants for the course. 
@@ -20,7 +20,7 @@ Notifying applicants that they are registered for the course and providing them 
 
 ## Courses with fees
 
-For courses with fees, participants are registered on a first come, first served basis, exceptions may be made to ensure diversity and equity, which may increase the time before your registration is confirmed. The procedure described ensures that the Equality, Diversity, Inclusion Checklist is followed while respecting the mission of the SIB Training group. This requires that the information for the students who have applied for the course in **#courseadmin** be exported: 
+For courses with fees, participants are registered on a first come, first served basis, exceptions may be made to ensure diversity and equity, which may increase the time before your registration is confirmed. The procedure described ensures that the Equality, Diversity, Inclusion Checklist is followed while respecting the mission of the SIB Training group. This requires that the information for the students who have applied for the course in courseadmin be exported: 
 
 ### Preselection and number of participants
 
@@ -50,7 +50,7 @@ For courses with fees, participants are registered on a first come, first served
 
 ### Register participants in courseadmin
 
-- Using the Excel file as your reference, update the Reg. Status students who have applied for the course in **#courseadmin**: 
+- Using the Excel file as your reference, update the Reg. Status students who have applied for the course in courseadmin: 
 - Starting with all entries with the text in red, find the student and change the Reg. Status from Applied to Removed. 
 - For all entries with the text in green, find the student and change the Reg. Status from Applied to Registered. 
 - Put remaining students on waiting list:  
@@ -72,7 +72,7 @@ Send a mail to students indicating they are registered and provide a link for pa
 
 ## Waiting list 
 
-The **#Manager** organising the course is responsible for notifying applicants that they are on the waiting list. This requires that the information for the students who are on the waiting list for the course in **#courseadmin** be exported: 
+The Manager organising the course is responsible for notifying applicants that they are on the waiting list. This requires that the information for the students who are on the waiting list for the course in courseadmin be exported: 
 
 - Find the course entry. 
 - Select Students to display all the applicants for the course. 
@@ -85,9 +85,9 @@ The **#Manager** organising the course is responsible for notifying applicants t
 
 ## Cancellations 
 
-The **#Manager** organising the course generally takes care of cancellations. However, if the waiting list and payments are being handled by the #Admin, he/she can also deal with cancellations. 
+The Manager organising the course generally takes care of cancellations. However, if the waiting list and payments are being handled by the #Admin, he/she can also deal with cancellations. 
 
-This is done in **#courseadmin** as follows: 
+This is done in courseadmin as follows: 
 
 - Find the course entry. 
 - Select Students to display all the applicants for the course. 
@@ -99,7 +99,7 @@ The student should be notified by mail that his/her registration had been cancel
 
 ## Closing registration 
 
-The **#Manager** closes the course to applications in **#courseadmin** . For courses with fees, this is done either when the number of applications largely exceeds the maximum number of participants for the course or at the latest 7 days prior to beginning of the course. For courses which are free and have no limit on the maximum number of registered participants (for instance, lectures on SIB Resources), this can be done 1-2 days prior to the lecture. 
+The Manager closes the course to applications in courseadmin . For courses with fees, this is done either when the number of applications largely exceeds the maximum number of participants for the course or at the latest 7 days prior to beginning of the course. For courses which are free and have no limit on the maximum number of registered participants (for instance, lectures on SIB Resources), this can be done 1-2 days prior to the lecture. 
 
 To close registrations, find the course entry and edit the course entry in the following way: 
 

@@ -1,21 +1,5 @@
-# Glossary
 
-**#Trainer** - a person who trains course participants or a person who teaches specific topics to a course audience 
-
-**#Manager** - Training manager: a person who coordinates the development of a course/training from A to Z. 
-
-**#Admin** - Training Administrator: a person who assists the #Manager in all administrative tasks 
-
-**#Participant** -  a person who is registered and has paid for a course; he/she must also have attended the course 
-
-**#courseadmin** - a system for course description and registration, which manages the registration and details of courses’ participants, as well as their payment, exam and certificates status. 
-
-**#RT** - a request tracker used to manage all training request coming from course participants but not only.  
-
-**#mailinglist** - a list of e-mail addresses of persons interested in receiving announcements concerning SIB courses 
-
-
-### Types of courses at SIB 
+## Types of courses at SIB 
 
 
 | Term for type of course   | Definition                           |
@@ -26,7 +10,7 @@
 | Blended                 | A mode of learning that combines characteristics of both synchronous and asynchronous learning.   |
 | Hybrid                  | A mode of learning in which students and teachers are engaged at the same time (synchronously). Some are in the same physical classroom, while others are in an online classroom. This type of courses is not supported today at SIB, but the definition is here as a placeholder.  |
 
-### Another view of these terms
+## Another view of these terms
 
 | Term for type of course   | Synchronicity                 | Shared space              | Pace      | Mentoring    |
 | ------------------------- | ----------------------------- |---------------------------| --------- | ------------ |
@@ -45,7 +29,7 @@
 | Intermediate          | Several prerequisites for learners.   |
 | Advanced              | A course many prerequisites for learners.  |
 
-### Course materials
+## Course materials
 Our materials include: 
 
 - Slide decks 
@@ -56,10 +40,10 @@ Our materials include:
 - Reading materials
 - Paper/Publication 
 
-### Audience
+## Audience
 
 Can be a mix of the field of research (eg life sciences, bioinformatics, medicine, computer sciences, etc), the career stages of learners (eg PhDs, postdocs, technicians and researchers), and their location (eg from the Swiss and international scientific community) 
 
-### Course status 
+## Course status 
 
 Upcoming, <span style="color:green">Open</span>, <span style="color:red"> Closed </span>, Cancelled, Waiting list, Past 

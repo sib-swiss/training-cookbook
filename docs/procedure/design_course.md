@@ -5,17 +5,17 @@
  
  
 
-Usually, a course project starts with an idea of a teaching goal. It starts as a general topic and little by little **#Manager** and **#Trainer** work together to define Learning outcomes, Overview of the course, prerequisites, audience for whom this is targeted - for **#courseadmin**.  
+Usually, a course project starts with an idea of a teaching goal. It starts as a general topic and little by little Manager and Trainer work together to define Learning outcomes, Overview of the course, prerequisites, audience for whom this is targeted - for courseadmin.  
 
  
  
 
-**#Manager** ask **#Trainer** if helpers are needed, learning experiences (exercises), content the experiences, content for exam. Parts are in the course description and others are related to content. Check the feedback of previous instances – for teaching and logistics.  
+Manager ask Trainer if helpers are needed, learning experiences (exercises), content the experiences, content for exam. Parts are in the course description and others are related to content. Check the feedback of previous instances – for teaching and logistics.  
 
  
  
 
-The **#Manager** may provide tips on how to deliver courses, for instance based on the [Train-the-Trainer](https://github.com/TrainTheTrainer/ELIXIR-EXCELERATE-TtT) course content.  
+The Manager may provide tips on how to deliver courses, for instance based on the [Train-the-Trainer](https://github.com/TrainTheTrainer/ELIXIR-EXCELERATE-TtT) course content.  
 
  
  
@@ -36,7 +36,7 @@ A new course requires a lot of work to create the course content, never underest
  
  
 
-1. In case of collaborative teaching, the **#Manager** organizes a meeting with the **#Trainer(s)** to make content creation possible, in particular to:  
+1. In case of collaborative teaching, the Manager organizes a meeting with the **#Trainer(s)** to make content creation possible, in particular to:  
 
  
  
@@ -86,7 +86,7 @@ This is the situation when the course material has already been created (by the 
  
  
 
-2. The **#Manager** ensures that at least one #Trainer has access to the source material from the previous course iteration, as well as access rights to the Git repository (if necessary). The access to the SIB Github must be done by one of the IT admins (see reference in [OneNote](https://sibcloud-my.sharepoint.com/:o:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/References/Minutes/Training?d=w62777f8411f64078a386712e61b0e9b1&csf=1&web=1&e=hepCBK)).  
+2. The Manager ensures that at least one #Trainer has access to the source material from the previous course iteration, as well as access rights to the Git repository (if necessary). The access to the SIB Github must be done by one of the IT admins (see reference in [OneNote](https://sibcloud-my.sharepoint.com/:o:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/References/Minutes/Training?d=w62777f8411f64078a386712e61b0e9b1&csf=1&web=1&e=hepCBK)).  
 
  
  
@@ -130,7 +130,7 @@ The next steps must be completed for both new and existing courses:
  
  
 
-2. The **#Trainer(s)** communicates with the **#Manager** about the software / package(s) to be installed in advance by the participants and the possible instructions, and assignment preparation (Send practical information to registered participants)  
+2. The **#Trainer(s)** communicates with the Manager about the software / package(s) to be installed in advance by the participants and the possible instructions, and assignment preparation (Send practical information to registered participants)  
 
  
  
@@ -140,4 +140,4 @@ The next steps must be completed for both new and existing courses:
  
  
 
-4. The **#Trainer(s)** make the course materials available at least few days before the course and inform the **#Manager** who will share this information with the course **#Participants**. If the course is a repetition, then the course materials should be available before (see [Make course materials open and FAIR](https://sib-training.gitlab.io/sib-training-cookbook/topic/open_FAIR/)). 
+4. The **#Trainer(s)** make the course materials available at least few days before the course and inform the Manager who will share this information with the course Participants. If the course is a repetition, then the course materials should be available before (see [Make course materials open and FAIR](https://sib-training.gitlab.io/sib-training-cookbook/topic/open_FAIR/)). 

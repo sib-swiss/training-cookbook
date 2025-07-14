@@ -13,6 +13,6 @@ There are three BioSchemas profiles of direct interest to SIB Training:
 - [Course Instance](https://docs.google.com/spreadsheets/d/1YwvQxc3oUPusbpIsu1Q3MjXdFcQVj1Drdq_h7Xo8TOA/edit#gid=292464567) 
 - [Training Material](https://docs.google.com/spreadsheets/d/1PIHHW17cnKezQrrT4JCpnCB_Q8bJEBdSZaGVcH7WH3Q/edit#gid=292464567) 
 
-A course description page in SIB is mapped to Course and CourseInstance. A training material page in SIB is mapped to TrainingMaterial. TeSS uses the same BioSchemas profiles to scrape SIB course webpages. The mapping between the terminology used in SIB (the fields in **#courseadmin**), the BioSchemas profiles, and TeSS is summarized in this table.
+A course description page in SIB is mapped to Course and CourseInstance. A training material page in SIB is mapped to TrainingMaterial. TeSS uses the same BioSchemas profiles to scrape SIB course webpages. The mapping between the terminology used in SIB (the fields in courseadmin), the BioSchemas profiles, and TeSS is summarized in this table.
 
-At SIB, we use specific terms in the “XXX” **#courseadmin** field to describe our courses, based on EDAM terminology and SIB’s own terms. EDAM terms are also used by TeSS and recommended in the BioSchemas training-related profiles.
+At SIB, we use specific terms in the “XXX” courseadmin field to describe our courses, based on EDAM terminology and SIB’s own terms. EDAM terms are also used by TeSS and recommended in the BioSchemas training-related profiles.

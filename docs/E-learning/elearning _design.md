@@ -22,7 +22,7 @@ For each new e-learning course, the topic, audience, competencies, learning obje
 
 E-learning courses on SIB resources generally follow a SIB Training course on the resource, for which a course description exists. 
  
-The structure of the course should be designed with the **#Trainer** according to the length and level.
+The structure of the course should be designed with the Trainer according to the length and level.
 
 Each module should not take more than 1 hour to complete, as the **#Participant's** concentration begins to wane after 45 minutes. 
 
