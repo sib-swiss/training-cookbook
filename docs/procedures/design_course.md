@@ -1,4 +1,3 @@
-# Design the course  
 
 ## Defining the course  
 
@@ -51,7 +50,7 @@ A new course requires a lot of work to create the course content, never underest
     
     v. encourage **#Trainer(s)** to make their material open and FAIR,  
 
-    vi. Discuss the exam that the **#Trainer(s)** will give (See more about [Exam options](../topics/ECTS_exam)).  
+    vi. Discuss the exam that the **#Trainer(s)** will give (See more about [Exam options](../topics/ECTS_exam.md)).  
 
  
  
@@ -135,7 +134,7 @@ The next steps must be completed for both new and existing courses:
  
  
 
-3. If an exam is proposed (see [Exam](../topics/ECTS_exam)), the **#Trainer(s)** prepares an exam corresponding to the content and matching the number of ECTS (See [ECTS credits and Exam](../topics/ECTS_exam)).  
+3. If an exam is proposed (see [Exam](../topics/ECTS_exam.md)), the **#Trainer(s)** prepares an exam corresponding to the content and matching the number of ECTS (See [ECTS credits and Exam](../topics/ECTS_exam.md)).  
 
  
  

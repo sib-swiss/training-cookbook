@@ -1,4 +1,5 @@
 
+
 ## Organize the course plan for the coming year 
 
 The SIB usually develops 2-3 new e-learning courses every year. Possible topics are discussed with the Head of Training and may also be discussed at the Training Advisory Board meetings. 

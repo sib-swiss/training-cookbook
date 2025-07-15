@@ -1,4 +1,3 @@
-# ECTS Credits and Exam
 
 ## How to Calculate ECTS Credits – Rules Adopted in July 2014
 
@@ -23,18 +22,18 @@ The minimum requirement for awarding 0.25 ECTS is participant attendance. We als
 
 Exams should not exceed 30 minutes per day of course (7 hours / 25 = 0.28; 7 hours / 30 = 0.23).
 
-#### Exam Corrections
+### Exam Corrections
 
 - Longer exams take more time for learners to complete and trainers to correct, delaying the entire process (Admin and Participants waiting for certificates).
 
-#### Other Rules
+### Other Rules
 
 - For participants: Exams should not take more than 30 minutes per day of course. Keep it simple!
 - For participants: Exams should be returned to teachers within 2 - 7 days after the course ended.
 - For trainers: Results should be sent back to the manager and admin within a resonable short time period.
 - Certificates should be sent to participants within 2 weeks after the course ends.
 
-#### Types of Exams
+### Types of Exams
 
 Discussed with trainers:
 
@@ -43,9 +42,9 @@ Discussed with trainers:
 - **Collaborative correction**: Trainers may correct exercises with students interested in credits, including follow-up and oral questions.
 - **Oral exam**: Conducted at the end of the course.
 
-#### With or Without ECTS Credits – Who Decides
+### With or Without ECTS Credits – Who Decides
 It is not mandatory for a SIB course to have ECTS credits. It is recommended but not mandatory. Providing ECTS requires extra work from the trainer, who has the right to decide if the course will have ECTS.
 
-#### Who Validates the ECTS Credits for Participants
+### Who Validates the ECTS Credits for Participants
 
 For SIB courses with an evaluation, we deliver certificates with the number of ECTS credits for those who succeeded in the assessment. Participants can then ask their university or PhD program to validate these credits according to their rules.

@@ -1,4 +1,3 @@
-# Course Description 
 
 ## Enter course descriptions in courseadmin
 
@@ -62,7 +61,7 @@ The following fields should be reviewed and changed, if necessary (it is wise to
 
     - Number of hours should be modified if the course length has been modified (Start date and End date above). 
 
-    - ECTS should be modified if the course length has been modified: Start date and End date above (See [ECTS credits](../../topics/ECTS_exam)). 
+    - ECTS should be modified if the course length has been modified: Start date and End date above (See [ECTS credits](../../topics/ECTS_exam.md)). 
 
 4. In Description and requirements: 
 
@@ -168,4 +167,4 @@ The next step is to open and announce the course.
 ## Courseadmin: 
 
 
-With only a few exceptions, the fields in #courseadmin are mandatory. They have a reason to be there. For instance, the field Metadescription, maximum of 150 characters, is needed for the Google indexing. The SIB web tags are needed for the search in the SIB website. See [Metadata mapping](../../topics/metadata). 
+With only a few exceptions, the fields in #courseadmin are mandatory. They have a reason to be there. For instance, the field Metadescription, maximum of 150 characters, is needed for the Google indexing. The SIB web tags are needed for the search in the SIB website. See [Metadata mapping](../../topics/metadata.md). 

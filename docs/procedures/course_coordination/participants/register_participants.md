@@ -1,4 +1,4 @@
-# Register Participants 
+## Register Participants 
 
 The Manager organising the course is responsible for registering applicants. While this can be done only once when the applications exceed the maximum number of participants, it may need to be done in several iterations, starting 1 month prior to the first day of the course. 
 

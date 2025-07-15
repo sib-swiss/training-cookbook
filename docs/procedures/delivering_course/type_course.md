@@ -1,4 +1,3 @@
-# Type of courses
  
 
 ## In-person courses  

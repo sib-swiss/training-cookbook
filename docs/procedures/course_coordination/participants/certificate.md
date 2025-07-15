@@ -1,4 +1,4 @@
-# Certificates 
+## Certificates 
 
 For each course, the Manager is in charge of establishing the list of participants who will get a certificate of attendance or achievement. By default, any participant who followed more than half of the course or failed at the evaluation is entitled to receive a certificate of attendance (stating that the participant attended the course and no skill was assessed). This information is provided by the **#Trainer(s)** after the course took place and is reported by the Manager or the Admin into courseadmin by updating the **Reg. Status** to absent if the person did not show up or announced he/she was unable to join the training. 
 

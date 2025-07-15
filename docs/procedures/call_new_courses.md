@@ -1,4 +1,3 @@
-# Call for new SIB courses
 ## Become a SIB Trainer on your favourite bioinformatics topic!
 
 

@@ -1,4 +1,4 @@
-# Send practical information to registered participants 
+## Send practical information to registered participants 
 
 The Manager organising the course is responsible for sending the practical information to registered participants. 
 

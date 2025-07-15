@@ -1,9 +1,8 @@
-# Course material life cycle 
 
  
  
 
-### Create course material page  
+## Create course material page  
 
  
  
@@ -41,7 +40,7 @@ We promote the use of **GitHub**: [Course Page tutorial](https://sib-swiss.githu
  
  
 
-The Trainer uploads the course material to a repository like Zenodo, for example [see link](https://zenodo.org/communities/sib-training/?page=1&size=20) Under the title [Course material](../procedures/course_material).  
+The Trainer uploads the course material to a repository like Zenodo, for example [see link](https://zenodo.org/communities/sib-training/?page=1&size=20) Under the title [Course material](../procedures/course_material.md).  
 
  
  

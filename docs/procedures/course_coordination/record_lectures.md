@@ -1,4 +1,3 @@
-# Record lectures and Share video
 
 ## Record Lectures
 

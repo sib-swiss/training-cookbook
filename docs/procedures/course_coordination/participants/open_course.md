@@ -1,4 +1,4 @@
-# Open and announce the course 
+## Open and announce the course 
 
 Courses are opened and the first announcement is made approximately 2 months prior to the start of the course.  
 

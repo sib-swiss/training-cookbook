@@ -1,4 +1,3 @@
-# Course administrative tasks 
 
 ## Before the course: 
 

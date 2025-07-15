@@ -1,4 +1,3 @@
-# Attendance list and exams 
 
 ## Attendance 
 
@@ -25,7 +24,7 @@ In the host controls, click Participants to open the full list of participants.
 In the bottom-right corner of the Participants panel, click  … , then click Show Not Joined Participants.  
  
 
-Within the 2 weeks following the end of a course, see [Design the course](../../../procedures/design_course) for the rules on exams, the Trainer sends the results of the exams to the Manager and #Admin, who will then update the courseadmin with pass or fail.  
+Within the 2 weeks following the end of a course, see [Design the course](../../../procedures/design_course.md) for the rules on exams, the Trainer sends the results of the exams to the Manager and #Admin, who will then update the courseadmin with pass or fail.  
 
  
 
@@ -33,11 +32,10 @@ Within the 2 weeks following the end of a course, see [Design the course](../../
 
 If the Trainer provides individual feedback for each Participant, for instance on the results expected or on the code, etc, the Trainer will either send this information directly to the Participant or to the Manager who will then send this information directly to the Participant. Both the Trainer and Manager will need to agree in advance on who’s going to send this information.  
 
-## Exam
 
 ### Make sure the participants know the formalities for the assessment – Exam 
 
-Generally, the assessment is linked to the obtaining of ECTS credits. Most PhD students need these credits to validate their studies to their PhD doctoral school. (See [Design the course](../../../procedures/design_course)).
+Generally, the assessment is linked to the obtaining of ECTS credits. Most PhD students need these credits to validate their studies to their PhD doctoral school. (See [Design the course](../../../procedures/design_course.md)).
 
 **Before the course**
 

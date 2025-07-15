@@ -1,4 +1,4 @@
-# Thank participants 
+## Thank participants 
 
 The Manager organising the course is responsible for thanking the participants. This is done at the end of the course or the day after the course. 
 

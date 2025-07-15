@@ -1,8 +1,7 @@
-# E-learning Coodination
 
 
 
-### Deliver the course 
+## Deliver the course 
 
 For new e-learning courses, the #Trainer reviews the contents. A naïve student then takes the course to see if the level is adapted to the audience, the time it takes to complete the course, whether there are any bugs in the quizzes, etc. 
 
@@ -10,7 +9,7 @@ For new e-learning courses, the #Trainer reviews the contents. A naïve student 
 
 Once all the corrections to the course have been made, the e-learning course is made visible on Moodle. 
 
-### Course description 
+## Course description 
 
 E-learning courses follow a similar procedure to SIB Training courses (Course description). 
 
@@ -34,7 +33,7 @@ In the Description, the first section is always # About e-learning. This is foll
 
  
 
-### Feedback Form 
+## Feedback Form 
 
 
 E-learning courses follow a similar procedure to SIB Training courses (Feedback Form) except that the feedback form for e-learning courses has been simplified. It includes the questions for the ELIXIR metrics (even though these are currently not being collected for e-learning courses) and some questions concerning the content of the course to determine whether improvements should be made. 

@@ -1,7 +1,6 @@
-# E-Learning material
 
 
-### Create the E-learning
+## Create the E-learning
 
 
 E-learning courses follow a similar procedure to SIB Training courses (Course material page). 
@@ -10,7 +9,7 @@ The e-learning course is created in the SIB Bioinformatics Training and [SIB Swi
 
   
 
-### Improve and adapt the content of the course 
+## Improve and adapt the content of the course 
 
 
 The contents of e-learning courses on SIB resource are reviewed on a yearly basis and adapted to any modifications made. For example, changes to the URL of the resource or a complete redesign of the home page require the e-learning course content to be adapted. 
