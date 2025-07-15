@@ -1,4 +1,3 @@
-
 ## Attendance 
 
 For the **in-person courses**, for each day of course, the Trainer circulates the attendance list among the Participants to collect their signature. At the end of the course, the Trainer sends a copy (an image or a pdf of the scan) to the Manager who will then update the courseadmin indicating any absences. The copy of the attendance list should be stored in OneDrive, in the folder dedicated to the course.  
@@ -13,25 +12,15 @@ If the list of participants is longer than the height of the screen, you will ne
 
 The Manager will then update the courseadmin indicating any absences. The screenshot(s) should be stored in OneDrive, in the folder dedicated to the course. 
 
- 
-
- 
-
 Sign in to the Zoom desktop client and start a meeting as the host, co-host, or alternative host. 
 
 In the host controls, click Participants to open the full list of participants. 
 
 In the bottom-right corner of the Participants panel, click  … , then click Show Not Joined Participants.  
- 
 
 Within the 2 weeks following the end of a course, see [Design the course](../../../procedures/design_course.md) for the rules on exams, the Trainer sends the results of the exams to the Manager and #Admin, who will then update the courseadmin with pass or fail.  
 
- 
-
- 
-
 If the Trainer provides individual feedback for each Participant, for instance on the results expected or on the code, etc, the Trainer will either send this information directly to the Participant or to the Manager who will then send this information directly to the Participant. Both the Trainer and Manager will need to agree in advance on who’s going to send this information.  
-
 
 ### Make sure the participants know the formalities for the assessment – Exam 
 
@@ -54,7 +43,6 @@ At the end of the course and after the course, participants will be reminded by 
 **#Trainer(s)** provide the students with the exam and answer any questions they may have. 
 
 As quickly as possible and no later than a week, the **#Trainer(s)** evaluate the exams, provide feedback to the students (optional) and give the Manager the results of the exam (participant name, pass/failed). 
-
 
 ## Verifying Participant Presence in Online Training
 For online or streamed courses, Zoom is typically used to conduct the sessions. To ensure accurate tracking of participants, follow these steps:

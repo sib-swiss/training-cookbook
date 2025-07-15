@@ -1,4 +1,3 @@
-
 ## Record Lectures
 
 **Before the course**
@@ -17,8 +16,6 @@
 - Manager (or Trainer if recording was done by him/her) locates the mp4 file in the Zoom folder of his/her local computer. The recording is sent to the Manager if processed on his/her computer. 
 - Manager sends the file (e.g. via [SWITCHfile sender](https://filesender.switch.ch/)) or provides the path (if put on OneDrive) to Admin and gives instructions so that he/she can process the video(s) accurately, in particular Manager will inform if some parts need to be cut. 
 - Admin informs Manager when done. 
-
- 
 
 ## Share Video 
 

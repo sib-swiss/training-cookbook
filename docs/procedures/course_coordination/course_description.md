@@ -1,4 +1,3 @@
-
 ## Enter course descriptions in courseadmin
 
 The Manager organising the course is responsible for the course description which should reflect the content that the Trainer plans to teach. The course description also provides the basis for the course announcement to the mailing list, as it contains the date, title, location, and an overview describing the course. All course descriptions are written in English (UK). 
@@ -131,8 +130,6 @@ The course description is entered in courseadmin as soon as the basic informatio
 
 The next step is for the Manager and the Trainer to define the course content. 
 
- 
-
 ## Finalize course description 
 
 As soon as possible, but no later than 2 months before the start of the course, the course description should be updated, completed and verified, in #courseadmin.  
@@ -163,8 +160,6 @@ As soon as possible, but no later than 2 months before the start of the course, 
 
 The next step is to open and announce the course. 
 
-
 ## Courseadmin: 
 
-
-With only a few exceptions, the fields in #courseadmin are mandatory. They have a reason to be there. For instance, the field Metadescription, maximum of 150 characters, is needed for the Google indexing. The SIB web tags are needed for the search in the SIB website. See [Metadata mapping](../../topics/metadata.md). 
+With only a few exceptions, the fields in #courseadmin are mandatory. They have a reason to be there. For instance, the field Metadescription, maximum of 150 characters, is needed for the Google indexing. The SIB web tags are needed for the search in the SIB website. See [Metadata mapping](../../topics/metadata.md).

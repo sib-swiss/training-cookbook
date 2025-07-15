@@ -26,7 +26,6 @@ The mail should contain: ([See template](https://sibcloud-my.sharepoint.com/:w:/
 
 9. Inform them that if they wish to extend their SIB Training experience, they can apply as a helper for a future course session. 
 
-
 ## Free streamed courses 
 
 The mail should contain: 
@@ -35,4 +34,4 @@ The mail should contain:
 2. Date 
 3. Thank you 
 4. Link to course material (if now available and not available before the course) 
-5. Link to feedback form 
+5. Link to feedback form

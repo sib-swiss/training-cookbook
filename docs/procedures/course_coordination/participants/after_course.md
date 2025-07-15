@@ -9,6 +9,4 @@ You can also attribute the status “Failed” to those who did not succeed, but
 - Start the reimbursement process 
 - Send the certificates (see [Certificates](certificate.md)) 
 
- 
-
 **Note about reimbursements:** The status “Cancelled” is eligible for reimbursement. Only motivated cancellations (the most frequent being sickness) are eligible for reimbursement when informed after the cancellation deadline. Cancellations for other duties (like an unexpected meeting) will usually be tagged as “Absent”. This greatly simplifies the process for Admin.

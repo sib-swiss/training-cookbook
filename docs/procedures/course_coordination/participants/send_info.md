@@ -30,8 +30,6 @@ The mail should contain:
 
 8. Feedback. Link to the feedback form (If needed). 
 
- 
-
 ## Free streamed courses 
 
 For courses which do not have a maximum number of participants, i.e., free and streamed courses on SIB resources, this is done 1 day prior to the start of the course.  
@@ -50,4 +48,4 @@ The mail should contain Access information in:
 
 6. Course material, including videos which should be viewed before the course (inverted classroom). 
 
-7. Feedback. Link to the feedback form. 
+7. Feedback. Link to the feedback form.

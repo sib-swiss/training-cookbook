@@ -7,7 +7,6 @@ The [TtT Course](https://github.com/TrainTheTrainer/EXCELERATE-TtT) is structure
 3. **Design of Sessions, Materials, and Courses**: Creating engaging and effective training sessions and materials.
 4. **Assessment and Feedback**: Implementing effective assessment and feedback methods in training and teaching.
 
-
 **References**
 
 - Training materials are in the [GitHub repository](https://github.com/TrainTheTrainer/ELIXIR-EXCELERATE-TtT).

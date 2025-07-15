@@ -2,10 +2,7 @@
 
 The Manager can find here the steps to create a feedback form and share with the students and **#Trainer(s)**
 
- 
 Feedback Guide – Sharepoint 
-
- 
 
 ## Create and edit the Feedback Form 
 1. [Duplicate the feedback template](https://forms.office.com/Pages/ShareFormPage.aspx?id=KewaGuOxtEGL2iiKlpme_4AvrTClUXVPucBPHY8citJURVBRMVhSWjNJVkMyOUdEVzg3WlJTVVMyMCQlQCN0PWcu&sharetoken=yN8Blcb0h7la2vBcFJrx)
@@ -19,7 +16,6 @@ Once you duplicate it, “Duplicate this form to use as your own”. It is going
 
 Settings -->Options for responses --> start or end date 
 
-
 ## Collect answers by obtaining the link to collect answers 
 
 To obtain the Link to Collect answers, click on Share (Top Right corner), and you will get the link to send to the students. (Select Shorten URL).
@@ -30,17 +26,13 @@ Once you open the excel file, rename it to the same name as the feedback Form
 
 This excel will be saved in your own Documents. 
 
-
 ##  Error in the excel file
 
 In case there is an error in the excel file, please follow [these steps](https://support.microsoft.com/en-us/office/how-to-get-missing-data-in-forms-9fb98299-4dcc-41a4-bb29-34a9c3daf8cc). Normally when getting less columns than (to Y) is because the excel file got corrupted and a new one should be generated. 
 
- 
-
 ## Close Feedback and Share with others.  
 
 Share link of Form and results on [CoordinationTaskList](https://sibcloud-my.sharepoint.com/:x:/g/personal/patricia_palagi_sib_swiss/EZneXy5SD7lApYqGNzj8vsMB8b67OHWWA3NJgfTcgzvFoA?e=4y8jkN)
- 
 
 Once the feedback is closed (not receiving answers anymore), then in the file [CoordinationTaskList](https://sibcloud-my.sharepoint.com/:x:/g/personal/patricia_palagi_sib_swiss/EZneXy5SD7lApYqGNzj8vsMB8b67OHWWA3NJgfTcgzvFoA?e=4y8jkN): 
 
@@ -60,11 +52,7 @@ For Courses with internal SIB trainers: we can give the link to the form itself 
 
 The Manager can send it directly to the Trainer (if the trainer belongs to SIB, will have access to the raw results and can visualize all the answers) 
 
- 
-
 Also, once the feedback is closed, Manager informs Admin that he/she can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel) with the Trainers. The fille name will have the following format: YYYYMMDD_5lettersCode_feedback.pdf. 
-
- 
 
 For Courses with external trainers:  
 
@@ -73,9 +61,8 @@ Once the feedback is closed, Manager informs Admin that he can share the last ve
 Upload the feedback results in the ELIXIR Metrics Database 
 (Done by Admin)
 
-
 ## Editing the template 
 
 In case there is a future need to edit the template 
 
-This template is located in SharePoint --> Training Group --> Forms 
+This template is located in SharePoint --> Training Group --> Forms

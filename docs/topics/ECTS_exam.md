@@ -1,4 +1,3 @@
-
 ## How to Calculate ECTS Credits – Rules Adopted in July 2014
 
 To better align with the European Community rules of ECTS attribution, and to ensure clarity and coherence within SIB and between SIB and its partner universities, we have defined the following internal rules:

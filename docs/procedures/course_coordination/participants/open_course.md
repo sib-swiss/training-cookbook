@@ -53,4 +53,4 @@ Anyone who has signed up or who has participated in a SIB course is on the [SIB 
 
     - Send another email to the SIB Training mailing list using this template. 
 
-The Manager will then proceed to register participants once the maximum number of students has been reached or one month before the course takes place, whichever comes first. 
+The Manager will then proceed to register participants once the maximum number of students has been reached or one month before the course takes place, whichever comes first.

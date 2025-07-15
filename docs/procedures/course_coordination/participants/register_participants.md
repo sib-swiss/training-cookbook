@@ -106,4 +106,4 @@ To close registrations, find the course entry and edit the course entry in the f
 - Change Web Registration to No (was Yes). This will remove the Apply button in the course description. 
 - Change Course reg. status to Closed (was Open). This will change the status of the course displayed in the Upcoming training courses. 
 - Indicate on top of the course description that the course is closed. 
-- Update the [coordination-tasks-list.xlsx](https://sibcloud-my.sharepoint.com/:x:/g/personal/patricia_palagi_sib_swiss/EZneXy5SD7lApYqGNzj8vsMB8b67OHWWA3NJgfTcgzvFoA?e=4y8jkN) 
+- Update the [coordination-tasks-list.xlsx](https://sibcloud-my.sharepoint.com/:x:/g/personal/patricia_palagi_sib_swiss/EZneXy5SD7lApYqGNzj8vsMB8b67OHWWA3NJgfTcgzvFoA?e=4y8jkN)

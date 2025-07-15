@@ -1,6 +1,5 @@
 ## Become a SIB Trainer on your favourite bioinformatics topic!
 
-
 SIB provides training for researchers as part of its mission to accelerate research and innovation. The SIB Training Group organises over 60 courses annually targeting PhD students, postdoctoral and other
 researchers in life sciences in collaboration with SIB experts and trainers. This collaborative approach ensures that our courses are delivered by knowledgeable and experienced experts in their respective
 fields. With their emphasis on hands-on exercises, SIB courses are immensely popular, and many are oversubscribed.
@@ -20,7 +19,6 @@ Let’s develop and provide training on the latest bioinformatic methods and dat
 - Initiate new collaborations and strengthen old ones, by exchanging knowledge between SIB Members
 - Strengthen the team spirit of your group by working together for the course preparation
 
-
 ### Timeline
 
 | Important Dates   | Definition                           |
@@ -30,7 +28,6 @@ Let’s develop and provide training on the latest bioinformatic methods and dat
 | 26 Sep                        | **SIB courses acceptance notification** |
 | 20 Oct                        | SIB courses programs online (dates, final title and description)  |
 | Jan - Dec of following year   | Course taught |
-
 
 ### How to submit your proposal
 
@@ -72,7 +69,6 @@ The evaluation committee, composed of the SIB Training Group members, will consi
 - Ensuring that the course materials are legally used, and that appropriate [copyright permissions](https://zenodo.org/records/5840175) have been arranged.
 - Guaranteeing that course materials are as much as possible [open and FAIR](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854). Trainers agree that their material may be made available in any form (at least a month in advance, the latest at the start of the course) on the SIB [Training website](https://www.sib.swiss/training/training-materials).
 
-
 ### Rules
 - SIB Training Group reserves the right to cancel a scheduled course, in agreement with the trainers, if registration one month before the course is less than 15 participants.
 - All the in-person courses will take place onsite in Switzerland. To foster exchanges and interactivity during the sessions, participants, organisers and presenters must be present in-person.
@@ -84,4 +80,3 @@ The evaluation committee, composed of the SIB Training Group members, will consi
 The SIB group teaching will receive 600 CHF per day of course. Under an ideal scenario, the SIB group that is giving the training will reiceive 600 CHF per day of course. This could be done as credits for registration in future SIB events (i.e. [BC2 conference](https://bc2.ch/) or [SIB training courses](https://www.sib.swiss/training/upcoming-training-courses)).
 However, we understand it might not be on the best interest of the new trainer to receive these 600 CHF as credits, and the Trainer might prefer to receive the money in cash.
 We are willing to have a conversation to find to the best solution for both parties.
- 

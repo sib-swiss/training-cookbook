@@ -1,4 +1,3 @@
-
 ## Organizing the Course Plan for the Next Year  
 
 Each year, before summer, the Admin compiles all Short-Term Feedback received from courses over the past 12 months and summarizes the results. Additional metrics from the previous year are also gathered from courseadmin by the Admin:
@@ -27,7 +26,6 @@ Multiple discussions among group members and trainers are necessary to finalize 
 
 Throughout the year, additional courses may be added based on requests from other SIB groups or emerging high-demand topics. 
 It is  also taken into account the [Call for new courses](../procedures/call_new_courses.md), and which topics were accepted.
- 
 
 ## Annual Program  
 

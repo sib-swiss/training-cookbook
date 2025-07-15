@@ -1,9 +1,6 @@
-
 ## Before the course: 
 
 As soon as the course is confirmed, The Manager asks the Admin to book a room for minimum 30 participants and then update the [coordination-tasks-list.xlsx](https://sibcloud-my.sharepoint.com/:x:/g/personal/patricia_palagi_sib_swiss/EZneXy5SD7lApYqGNzj8vsMB8b67OHWWA3NJgfTcgzvFoA?e=9zFWlL) when the booking is confirmed. 
-
-
 
 In order to book a room in the different course Locations, see the contact person in the [OneNote](https://sibcloud-my.sharepoint.com/personal/patricia_palagi_sib_swiss/_layouts/15/Doc.aspx?sourcedoc=%7B62777f84-11f6-4078-a386-712e61b0e9b1%7D&action=edit&wd=target%28Admin.one%7Cc103a835-449f-42f7-a9bd-44b44ee72b7a%2FCourse+Locations%7C09e9cfb9-e762-4f9f-a49a-5d49f5e25475%2F%29&wdorigin=703) page. Each Location contains the email of the contact person and procedure to follow.
 
@@ -21,9 +18,7 @@ If a Trainer is coming from another city, the Manager will ask the Admin to book
 ### Coffee Breaks
 D-10: Admin must confirm with the Manager the number of participants to the course and then order coffee breaks (morning and afternoon). When the order is confirmed, Admin must notify the Manager.  
 
-
 In order to book the coffee breaks in the different course Locations, see the contact person in the [OneNote](https://sibcloud-my.sharepoint.com/personal/patricia_palagi_sib_swiss/_layouts/15/Doc.aspx?sourcedoc=%7B62777f84-11f6-4078-a386-712e61b0e9b1%7D&action=edit&wd=target%28Admin.one%7Cc103a835-449f-42f7-a9bd-44b44ee72b7a%2FCourse+Locations%7C09e9cfb9-e762-4f9f-a49a-5d49f5e25475%2F%29&wdorigin=703) page. Each Location contains the email of the contact person and procedure to follow.
-
 
 ## After the course: 
 
@@ -40,7 +35,6 @@ Reimburse people who have cancelled their participation in the course and who pa
 At the end of the month, Admin prepares the accounting of the courses and sends them to Patricia Palagi. To do that, Admin must fill in template course accounting by including the course fees and the travel/course expenses (Catering, hotels, social dinner, etc.) 
 
 ## Other Admin tasks: 
-
 
 **Receipt of payment**: Often students need a payment receipt. Confirmation of payment is generally sufficient, it is accessible when you re-click, after having made the payment, on the payment link in the email of confirmation.  
 
@@ -67,7 +61,6 @@ Sometimes, an official invoice is needed. For that, Admin uses the template to c
 
 *Frequency: *Once a year. 
 
-
 *Process Steps: *
 
 **Step 1:** Verify Completion Status 
@@ -76,21 +69,17 @@ Where?: Last line on the [CTL](https://sibcloud-my.sharepoint.com/:x:/r/personal
 
 Action: If this cell is marked in green, the feedback from this course was already included in the previous collection. If the cell is grey, the course didn't have a feedback form and it will not be part of the collection. If the cell is white, proceed with the feedback process as outlined below. 
 
-
 **Step 2:** Access the Feedback Form 
 
 Where?: Cell "Duplicate Short-Term Feedback in form" on the [CTL](https://sibcloud-my.sharepoint.com/:x:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/References/coordination-tasks-list.xlsx?d=w2e5fde990f5240b9a58a863738fcbec3&csf=1&web=1&e=ZZfncK). 
 
 Action: Click on the hyperlink corresponding to the course to open the feedback form. 
 
-
 **Step 3:** Navigate to Feedback Responses 
 
 Action: Once the form is open, click "responses" at the top left corner of the page. 
 
 Specifics: Directly go to question number 15. 
-
- 
 
 **Step 4:** Fill in the Excel File 
 
@@ -101,9 +90,6 @@ Action: Record the score for each subpart of question 15 in the Excel file.
 Repeat: Follow the same steps for questions 16 to 18. 
  
 Do not forget to verify that each row of the column “Counts” in the Excel file is the sum of all the columns.
- 
-
- 
 
 **Step 5:** Detail Extraction for Question 19 
 
@@ -111,20 +97,13 @@ Action: For question 19, click "details" related to the question in the Form.
 
 Output: Copy and paste the answers into the Excel file.(scroll down in the Excel file until you see “Raw free-texts – question 19). 
 
- 
-
 **Step 6:** Mark Completion in [CTL](https://sibcloud-my.sharepoint.com/:x:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/References/coordination-tasks-list.xlsx?d=w2e5fde990f5240b9a58a863738fcbec3&csf=1&web=1&e=ZZfncK).  
 
 Action: Once all tasks are completed, return to the CTL and mark the corresponding case in green to indicate that the feedback process for that course has been completed. 
 
- 
-
 **Step 7:** Loop through all the courses in a given period (eg Jun 2023 to May 2024) 
 
 Action: Start from Step 1 until all the Short-Term Feedback courses for that given period are inserted in the Compilation. 
-
- 
-
 
 **ELIXIR Metrics Database (EMD)** - Steps to Upload the Short-Term and the Long-Term feedback results: 
 

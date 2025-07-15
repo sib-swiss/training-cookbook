@@ -1,6 +1,4 @@
-
 ## Types of courses at SIB 
-
 
 | Term for type of course   | Definition                           |
 | ------------------------- | ------------------------------------ |
@@ -21,7 +19,6 @@
 | Hybrid                    | synchronous                   | online and presence       | imposed   | yes          |
 
 **Course level** indicates to a potential course participant the level of difficulty of the course for the given main topic. The same applied to training material that is associated to and used to deliver a given course. This is used to filter courses in the courses’ page.  
-
 
 | Term for Course / Training Material Level | Definition                           |
 | ----------------------------------------- | ------------------------------------ |
@@ -46,4 +43,4 @@ Can be a mix of the field of research (eg life sciences, bioinformatics, medicin
 
 ## Course status 
 
-Upcoming, <span style="color:green">Open</span>, <span style="color:red"> Closed </span>, Cancelled, Waiting list, Past 
+Upcoming, <span style="color:green">Open</span>, <span style="color:red"> Closed </span>, Cancelled, Waiting list, Past
