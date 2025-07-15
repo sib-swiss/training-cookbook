@@ -18,7 +18,7 @@ Depending on the agreement it can be developed by the Trainer or by the Manager.
  
  
 
-The page can be shared in the course description ([Finalize course description](https://sib-training.gitlab.io/sib-training-cookbook/procedure/course_description/)) and/or in the email with information to the participants ([Send practical information to registered students](https://sib-training.gitlab.io/sib-training-cookbook/procedure/participants/send_info/))  
+The page can be shared in the course description ([Finalize course description](course_coordination/course_description.md)) and/or in the email with information to the participants ([Send practical information to registered students](course_coordination/participants/send_info.md))  
 
  
  
@@ -41,7 +41,7 @@ We promote the use of **GitHub**: [Course Page tutorial](https://sib-swiss.githu
  
  
 
-The Trainer uploads the course material to a repository like Zenodo, for example [see link](https://zenodo.org/communities/sib-training/?page=1&size=20) Under the title [Course material](https://sib-training.gitlab.io/sib-training-cookbook/procedure/course_material/).  
+The Trainer uploads the course material to a repository like Zenodo, for example [see link](https://zenodo.org/communities/sib-training/?page=1&size=20) Under the title [Course material](../procedures/course_material).  
 
  
  

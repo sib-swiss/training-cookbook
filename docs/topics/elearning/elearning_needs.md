@@ -1,6 +1,6 @@
 # Identify and assess E-learning Needs
 
-SIB e-learning courses complement, but do not replace, SIB Training courses ([Identify and assess training needs](https://sib-training.gitlab.io/sib-training-cookbook/topic/training_needs/)). They can ensure participants have the necessary background and needed knowledge to follow the SIB Training courses. For example, the e-learning course on [UNIX Fundamentals](https://www.sib.swiss/training/e-learning) can be taken if the "First Steps with UNIX in Life Sciences" course cannot be attended. Like SIB Training courses, e-learning courses combine theory and practice, and are designed for self-study on specific topics at the learner's own pace.
+SIB e-learning courses complement, but do not replace, SIB Training courses ([Identify and assess training needs](../../topics/training_needs)). They can ensure participants have the necessary background and needed knowledge to follow the SIB Training courses. For example, the e-learning course on [UNIX Fundamentals](https://www.sib.swiss/training/e-learning) can be taken if the "First Steps with UNIX in Life Sciences" course cannot be attended. Like SIB Training courses, e-learning courses combine theory and practice, and are designed for self-study on specific topics at the learner's own pace.
 
 E-learning courses are freely accessible and do not require login credentials at the [SIB Swiss Institute of Bioinformatics E-learning Portal](https://edu.sib.swiss/). Participants who complete e-learning courses do not receive certificates or ECTS credits.
 

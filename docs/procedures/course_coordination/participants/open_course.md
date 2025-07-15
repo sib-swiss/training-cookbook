@@ -6,7 +6,7 @@ The Manager is responsible for announcing that the course is open for applicatio
 
 Opening the course to applications and announcing it 
 
-Anyone who has signed up or who has participated in a SIB course is on the [SIB Training Mailing list](https://lists.sib.swiss/postorius/lists/courses.lists.sib.swiss/) (See section [Thank participants](https://sib-training.gitlab.io/sib-training-cookbook/procedure/participants/thank_participants/)). 
+Anyone who has signed up or who has participated in a SIB course is on the [SIB Training Mailing list](https://lists.sib.swiss/postorius/lists/courses.lists.sib.swiss/) (See section [Thank participants](thank_participants.md)). 
 
 1. Edit the course in courseadmin. You will need to: 
 

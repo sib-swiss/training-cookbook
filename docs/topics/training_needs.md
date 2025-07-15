@@ -4,7 +4,7 @@ One of SIB's core missions is to enhance the bioinformatics skills and competenc
 
 Before finalizing the annual course schedule, we evaluate various types of needs and requests, which are gathered from multiple sources:
 
-- **Participant Feedback**: Collected at the end of each course through the Short-Term Feedback survey ([see Short-Term Feedback form - how to make one](https://sib-swiss.github.io/training-cookbook/procedure/feedback/)).
+- **Participant Feedback**: Collected at the end of each course through the Short-Term Feedback survey ([see Short-Term Feedback form - how to make one](../procedures/course_coordination/feedback.md)).
 - **Course Metrics Analysis**: Reviewing data from previous years' courses.
 - **Training Advisory Committee Feedback**: Insights and recommendations from the committee.
 - **Group Leaders and Principal Investigators**: Ideas and requests from key stakeholders.

@@ -25,7 +25,7 @@ In the host controls, click Participants to open the full list of participants.
 In the bottom-right corner of the Participants panel, click  … , then click Show Not Joined Participants.  
  
 
-Within the 2 weeks following the end of a course, see [Design the course](https://sib-training.gitlab.io/sib-training-cookbook/procedure/design_course/) for the rules on exams, the Trainer sends the results of the exams to the Manager and #Admin, who will then update the courseadmin with pass or fail.  
+Within the 2 weeks following the end of a course, see [Design the course](../../../procedures/design_course) for the rules on exams, the Trainer sends the results of the exams to the Manager and #Admin, who will then update the courseadmin with pass or fail.  
 
  
 
@@ -37,7 +37,7 @@ If the Trainer provides individual feedback for each Participant, for instance o
 
 ### Make sure the participants know the formalities for the assessment – Exam 
 
-Generally, the assessment is linked to the obtaining of ECTS credits. Most PhD students need these credits to validate their studies to their PhD doctoral school. (See [Design the course](https://sib-training.gitlab.io/sib-training-cookbook/procedure/design_course/)).
+Generally, the assessment is linked to the obtaining of ECTS credits. Most PhD students need these credits to validate their studies to their PhD doctoral school. (See [Design the course](../../../procedures/design_course)).
 
 **Before the course**
 

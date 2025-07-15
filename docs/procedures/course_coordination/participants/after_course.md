@@ -11,7 +11,7 @@ To do this in courseadmin, select the participants and in the section “Update 
 You can also attribute the status “Failed” to those who did not succeed, but it has no function for us now. 
 4. Manager informs Admin when this process is done, meaning Admin can: 
 - Start the reimbursement process 
-- Send the certificates (see [Certificates](https://sib-training.gitlab.io/sib-training-cookbook/procedure/participants/certificate/)) 
+- Send the certificates (see [Certificates](certificate.md)) 
 
  
 

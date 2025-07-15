@@ -27,7 +27,7 @@ For new topics not covered in the previous year, several factors are considered:
 Multiple discussions among group members and trainers are necessary to finalize the courses, their frequency, and the Trainers for the upcoming year. This draft plan is organized into a Gantt chart. Once stable, Managers proceed to organize the course plan.
 
 Throughout the year, additional courses may be added based on requests from other SIB groups or emerging high-demand topics. 
-It is  also taken into account the [Call for new courses](https://sib-swiss.github.io/training-cookbook/procedure/call_new_courses/), and which topics were accepted.
+It is  also taken into account the [Call for new courses](../procedures/call_new_courses), and which topics were accepted.
  
 
 ## Annual Program  

@@ -68,7 +68,7 @@ Also, once the feedback is closed, Manager informs Admin that he/she can share t
 
 For Courses with external trainers:  
 
-Once the feedback is closed, Manager informs Admin that he can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel or from a print screen in the form) with the Trainers. See [Administrative Tasks](https://sib-training.gitlab.io/sib-training-cookbook/procedure/admin_tasks/). 
+Once the feedback is closed, Manager informs Admin that he can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel or from a print screen in the form) with the Trainers. See [Administrative Tasks](admin_tasks.md). 
 
 Upload the feedback results in the ELIXIR Metrics Database 
 (Done by Admin)

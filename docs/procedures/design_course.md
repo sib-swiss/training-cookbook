@@ -20,7 +20,7 @@ The Manager may provide tips on how to deliver courses, for instance based on th
  
  
 
-When designing a new course, it should be defined as [Open and FAIR](https://sib-training.gitlab.io/sib-training-cookbook/topic/open_FAIR) from the beginning.  
+When designing a new course, it should be defined as [Open and FAIR](../topics/FAIR-training-flowchart/flowchart_description.md) from the beginning.  
 
  
  
@@ -51,7 +51,7 @@ A new course requires a lot of work to create the course content, never underest
     
     v. encourage **#Trainer(s)** to make their material open and FAIR,  
 
-    vi. Discuss the exam that the **#Trainer(s)** will give (See more about [Exam options](https://sib-training.gitlab.io/sib-training-cookbook/topic/ECTS_exam/)).  
+    vi. Discuss the exam that the **#Trainer(s)** will give (See more about [Exam options](../topics/ECTS_exam)).  
 
  
  
@@ -135,9 +135,9 @@ The next steps must be completed for both new and existing courses:
  
  
 
-3. If an exam is proposed (see [Exam](https://sib-training.gitlab.io/sib-training-cookbook/topic/ECTS_exam/)), the **#Trainer(s)** prepares an exam corresponding to the content and matching the number of ECTS (See [ECTS credits and Exam](https://sib-training.gitlab.io/sib-training-cookbook/topic/ECTS_exam/)).  
+3. If an exam is proposed (see [Exam](../topics/ECTS_exam)), the **#Trainer(s)** prepares an exam corresponding to the content and matching the number of ECTS (See [ECTS credits and Exam](../topics/ECTS_exam)).  
 
  
  
 
-4. The **#Trainer(s)** make the course materials available at least few days before the course and inform the Manager who will share this information with the course Participants. If the course is a repetition, then the course materials should be available before (see [Make course materials open and FAIR](https://sib-training.gitlab.io/sib-training-cookbook/topic/open_FAIR/)). 
+4. The **#Trainer(s)** make the course materials available at least few days before the course and inform the Manager who will share this information with the course Participants. If the course is a repetition, then the course materials should be available before (see [Make course materials open and FAIR](../topics/FAIR-training-flowchart/flowchart_description.md)). 
