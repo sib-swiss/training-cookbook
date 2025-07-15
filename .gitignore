@@ -1,5 +1,10 @@
 .DS_Store
 site
-site
-site
-site
+fix_*# Maintenance scripts
+check_headings.py
+remove_empty_headings.py
+remove_single_headings.py
+fix_headings.py
+fix_links.py
+fix_links_updated.py
+clean_newlines.py

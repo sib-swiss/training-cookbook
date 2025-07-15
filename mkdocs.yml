@@ -2,44 +2,45 @@ site_name: SIB Training Cookbook
 nav:
     - Home: index.md
     - Topics: 
-      - Identify and assess training needs: topic/training_needs.md      
-      - Course Design: topic/course_design.md
-      - ECTS credits and Exam: topic/ECTS_exam.md
-      - Course Evaluation: topic/course_evaluation.md
-      - Make course materials open and FAIR: topic/FAIR-training-flowchart/flowchart_description.md
-      - Metadata mapping: topic/metadata.md
+      - Identify and assess training needs: topics/training_needs.md      
+      - Course Design: topics/course_design.md
+      - ECTS credits and Exam: topics/ECTS_exam.md
+      - Course Evaluation: topics/course_evaluation.md
+      - Make course materials open and FAIR: topics/FAIR-training-flowchart/flowchart_description.md
+      - Metadata mapping: topics/metadata.md
+      - E-learning:
+        - Identify and assess e-learning needs: topics/elearning/elearning_needs.md
+        - E-learning plan: topics/elearning/elearning_plan.md
+        - E-learning design: topics/elearning/elearning_design.md
+        - E-learning material: topics/elearning/elearning_material.md
+        - E-learning evaluation: topics/elearning/elearning_evaluation.md
+        - Make e-learning materials open and FAIR: topics/elearning/elearning_openandFAIR.md
+        - Course coordination: topics/elearning/elearning_coordination.md
     - Procedures:
-      - Course Programme and Planning: procedure/course_programme.md
-      - Call for New Courses: procedure/call_new_courses.md
-      - Design the Course: procedure/design_course.md
-      - Course material life cycle: procedure/course_material.md
+      - Course Programme and Planning: procedures/course_programme.md
+      - Call for New Courses: procedures/call_new_courses.md
+      - Design the Course: procedures/design_course.md
+      - Course material life cycle: procedures/course_material.md
       - Deliver the Course:
-        - Delivering the Course: procedure/delivering_course/deliver_course.md
-        - Types of courses: procedure/delivering_course/type_course.md
+        - Delivering the Course: procedures/delivering_course/deliver_course.md
+        - Types of courses: procedures/delivering_course/type_course.md
       - Course Coordination:
-        - Course Description: procedure/course_description.md
+        - Course Description: procedures/course_coordination/course_description.md
         - Participants:
-          - Open and announce the course: procedure/participants/open_course.md
-          - Register Participants: procedure/participants/register_participants.md
-          - Manage Payments: procedure/participants/manage_payments.md
-          - Send practical information to registered participants: procedure/participants/send_info.md
-          - Attendance list and exams: procedure/participants/attendance_exam.md
-          - Thank participants: procedure/participants/thank_participants.md
-          - Update courseadmin (after course): procedure/participants/after_course.md
-          - Certificates: procedure/participants/certificate.md
-        - Feedback: procedure/feedback.md
-        - Record Lectures: procedure/record_lectures.md
-        - Course Administrative tasks: procedure/admin_tasks.md
-        - Reimbursements: procedure/reimbursements.md
-        - Course Locations: procedure/course_location.md
-    - E-learning:
-      - Identify and assess e-learning needs: E-learning/elearning_needs.md
-      - E-learning plan: E-learning/elearning_plan.md
-      - E-learning design: E-learning/elearning_design.md
-      - E-learning material: E-learning/elearning_material.md
-      - E-learning evaluation: E-learning/elearning_evaluation.md
-      - Make e-learning materials open and FAIR: E-learning/elearning_openandFAIR.md
-      - Course coordination: E-learning/elearning_coordination.md
+          - Open and announce the course: procedures/course_coordination/participants/open_course.md
+          - Register Participants: procedures/course_coordination/participants/register_participants.md
+          - Manage Payments: procedures/course_coordination/participants/manage_payments.md
+          - Send practical information to registered participants: procedures/course_coordination/participants/send_info.md
+          - Attendance list and exams: procedures/course_coordination/participants/attendance_exam.md
+          - Thank participants: procedures/course_coordination/participants/thank_participants.md
+          - Update courseadmin (after course): procedures/course_coordination/participants/after_course.md
+          - Certificates: procedures/course_coordination/participants/certificate.md
+        - Feedback: procedures/course_coordination/feedback.md
+        - Record Lectures: procedures/course_coordination/record_lectures.md
+        - Course Administrative tasks: procedures/course_coordination/admin_tasks.md
+        - Reimbursements: procedures/course_coordination/reimbursements.md
+        - Course Locations: procedures/course_coordination/course_location.md
+
     - Glossary: Glossary.md
 
 watch:
