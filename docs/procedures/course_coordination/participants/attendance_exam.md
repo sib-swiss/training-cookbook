@@ -53,38 +53,38 @@ The course coordinator can take screenshots of the list of participants during t
 **2. Generating a Zoom Attendance Report**
 A more detailed and automated report can be obtained directly from Zoom. To access this, follow these steps:
 
-    1. Log in to your Zoom Account
+1. Log in to your Zoom Account
 
-        - Open a web browser and navigate to Zoom's login page.
+    - Open a web browser and navigate to Zoom's login page.
 
-        - Log in with your Zoom account credentials.
+    - Log in with your Zoom account credentials.
 
-    2. Navigate to the Reports Section
+2. Navigate to the Reports Section
 
-        - On the left-hand menu, under the Personal section, click on Reports.
+    - On the left-hand menu, under the Personal section, click on Reports.
 
-    3. Access Meeting and Webinar History
+3. Access Meeting and Webinar History
 
-        - In the Reports menu, click on Usage Reports.
+    - In the Reports menu, click on Usage Reports.
 
-        - Select Meeting and Webinar History. This section allows you to view a history of all meetings and webinars held over a specified time period.
+    - Select Meeting and Webinar History. This section allows you to view a history of all meetings and webinars held over a specified time period.
 
-    4. Select the Course Time Frame
+4. Select the Course Time Frame
 
-        - Set the appropriate date range for the course session you want to track.
+    - Set the appropriate date range for the course session you want to track.
 
-        - A list of meetings that occurred within the selected period will be displayed.
+    - A list of meetings that occurred within the selected period will be displayed.
 
-    5. View Participants
+5. View Participants
 
-        - Find the meeting corresponding to your course and click on the Participants link for that meeting.
+    - Find the meeting corresponding to your course and click on the Participants link for that meeting.
 
-        - Select Show Unique Users to get a clear list of all unique participants in the meeting.
+    - Select Show Unique Users to get a clear list of all unique participants in the meeting.
 
-    6. Export the Participant Report
+6. Export the Participant Report
 
-        - Click Export to download a CSV (Comma-Separated Values) file containing the detailed participant report.
+    - Click Export to download a CSV (Comma-Separated Values) file containing the detailed participant report.
 
-        - The CSV file will include the names of all participants, along with the duration each user was connected to the meeting.
+    - The CSV file will include the names of all participants, along with the duration each user was connected to the meeting.
 
 This report provides an accurate and time-stamped record of participant attendance, ensuring that you can verify who attended and for how long.
