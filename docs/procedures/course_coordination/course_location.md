@@ -1,3 +1,1 @@
-## General Information about course Locations 
-
 Please refer to [OneNote](https://sibcloud-my.sharepoint.com/personal/patricia_palagi_sib_swiss/_layouts/15/Doc.aspx?sourcedoc=%7B62777f84-11f6-4078-a386-712e61b0e9b1%7D&action=edit&wd=target%28Admin.one%7Cc103a835-449f-42f7-a9bd-44b44ee72b7a%2FCourse+Locations%7C09e9cfb9-e762-4f9f-a49a-5d49f5e25475%2F%29&wdorigin=703) page.

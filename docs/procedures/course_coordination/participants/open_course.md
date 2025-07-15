@@ -1,5 +1,3 @@
-## Open and announce the course 
-
 Courses are opened and the first announcement is made approximately 2 months prior to the start of the course.  
 
 The Manager is responsible for announcing that the course is open for applications. The full course description, including tags, must be displayed online in the [Upcoming training courses page](https://www.sib.swiss/training/upcoming-training-courses) for the course to be announced. Courses are advertised using several different communication channels that target different audiences. 

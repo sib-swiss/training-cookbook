@@ -1,8 +1,3 @@
-## Deliver the course  
-
- 
- 
-
 The Manager organising the course is responsible for checking that the Trainer is ready to:  
 
  

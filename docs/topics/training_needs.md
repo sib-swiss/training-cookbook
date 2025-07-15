@@ -1,5 +1,3 @@
-## Identify and assess training needs 
-
 One of SIB's core missions is to enhance the bioinformatics skills and competencies of bioinformaticians, life scientists, and health scientists both nationally and internationally, across academia and industry. We achieve this **by offering high-quality training programs**. To ensure our courses meet the evolving needs of our audience, identifying and assessing training needs is a critical task for the Training group. This process shapes and defines our annual training program.
 
 Before finalizing the annual course schedule, we evaluate various types of needs and requests, which are gathered from multiple sources:

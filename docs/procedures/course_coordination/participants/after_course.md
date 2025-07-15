@@ -1,7 +1,3 @@
-## Update courseadmin (after a course) 
-
- 
-
 1. Manager change the status “Applied” to “Waiting list”. 
 To do this in courseadmin, select the participants and in the section “Update selected”, click on “Reg. Status” and choose “Waiting list” before saving. 
 2. Manager (possibly also Admin) updates the courseadmin with absences or very late cancellations and tag them as “Absent”. 
