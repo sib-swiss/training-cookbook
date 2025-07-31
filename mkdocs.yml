@@ -108,3 +108,14 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+  - git-committers:
+      repository: sib-swiss/training-cookbook
+      branch: main
+      token: !ENV ["CI_JOB_TOKEN"]
+  # - git-authors
+
