@@ -112,10 +112,9 @@ extra_css:
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
-      fallback_to_build_date: true
   - git-committers:
       repository: sib-swiss/training-cookbook
-      branch: main
+      branch: 11-add-date-and-committers-to-each-page
       token: !ENV ["CI_JOB_TOKEN"]
   # - git-authors
 
