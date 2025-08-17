@@ -8,9 +8,9 @@
 
 *[Admin]: Training Administrator: a person who assists the #Manager in all administrative tasks 
 
-*[Participant]:  a person who is registered and has paid for a course; he/she must also have attended the course 
+*[Participant]:  a person who is registered 
 
-*[Participants]:  a person who is registered and has paid for a course; he/she must also have attended the course 
+*[Participants]:  a person who is registered 
 
 *[courseadmin]: a system for course description and registration, which manages the registration and details of courses’ participants, as well as their payment, exam and certificates status. 
 
