@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          fetch-depth: 0  # Fetch all history for all branches and tags
           submodules: 'recursive'  # Fetch submodules recursively
       - name: Configure Git Credentials
         run: |
