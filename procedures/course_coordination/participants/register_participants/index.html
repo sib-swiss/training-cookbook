@@ -1,0 +1,2024 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../../../topics/metadata/">
+      
+      
+        <link rel="next" href="../open_course/">
+      
+      
+      <link rel="icon" href="../../../../assets/images/SIB_logo.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.17">
+    
+    
+      
+        <title>Register Participants - SIB Training Cookbook</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="#D40000" data-md-color-accent="#999999">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#register-participants" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../../.." title="SIB Training Cookbook" class="md-header__button md-logo" aria-label="SIB Training Cookbook" data-md-component="logo">
+      
+  <img src="../../../../assets/images/SIB_logo.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            SIB Training Cookbook
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Register Participants
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="#D40000" data-md-color-accent="#999999"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="#F6D0D0" data-md-color-accent="#999999"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/sib-swiss/training-cookbook" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    sib-swiss/training-cookbook
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../.." title="SIB Training Cookbook" class="md-nav__button md-logo" aria-label="SIB Training Cookbook" data-md-component="logo">
+      
+  <img src="../../../../assets/images/SIB_logo.svg" alt="logo">
+
+    </a>
+    SIB Training Cookbook
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/sib-swiss/training-cookbook" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    sib-swiss/training-cookbook
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Plan
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Plan
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/training_needs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Identify and assess training needs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../course_programme/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Course Programme and Planning
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../call_new_courses/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Call for New Courses
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Design
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Design
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/course_design/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Course Design
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../design_course/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Design the Course
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../delivering_course/type_course/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Types of courses
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../course_description/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Course Description
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Develop
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Develop
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../course_material/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Course material life cycle
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/FAIR-training-flowchart/flowchart_description/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Make course materials open and FAIR
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/metadata/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Metadata mapping
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Deliver
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Deliver
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5_1" id="__nav_5_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Course coordination
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            Course coordination
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Register Participants
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Register Participants
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#register-participants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Register Participants
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#free-courses-with-no-maximum" class="md-nav__link">
+    <span class="md-ellipsis">
+      Free courses with no maximum
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#courses-with-fees" class="md-nav__link">
+    <span class="md-ellipsis">
+      Courses with fees
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Courses with fees">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#preselection-and-number-of-participants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Preselection and number of participants
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#export-excel-sheet-and-sort-participants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Export excel sheet and sort participants
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#register-participants-in-courseadmin" class="md-nav__link">
+    <span class="md-ellipsis">
+      Register participants in courseadmin
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#send-an-e-mail-and-create-payment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Send an e-mail and create payment
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#waiting-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      Waiting list
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cancellations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cancellations
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#closing-registration" class="md-nav__link">
+    <span class="md-ellipsis">
+      Closing registration
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../open_course/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Open and announce the course
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../manage_payments/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Manage Payments
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../send_info/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Send practical information to registered participants
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../attendance_exam/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Attendance list and exams
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../thank_participants/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Thank participants
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../after_course/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Update courseadmin (after course)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../certificate/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Certificates
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../record_lectures/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Record Lectures
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../admin_tasks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Course Administrative tasks
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reimbursements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Reimbursements
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../course_location/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Course Locations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../delivering_course/deliver_course/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Delivering the Course
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Evaluate
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Evaluate
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/ECTS_exam/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    ECTS credits and Exam
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/course_evaluation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Course Evaluation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../feedback/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Feedback
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    E-learning
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            E-learning
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_1" id="__nav_7_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Plan
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_1">
+            <span class="md-nav__icon md-icon"></span>
+            Plan
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/elearning/elearning_needs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Identify and assess e-learning needs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/elearning/elearning_plan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    E-learning plan
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Design
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2">
+            <span class="md-nav__icon md-icon"></span>
+            Design
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/elearning/elearning_design/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    E-learning design
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3" id="__nav_7_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Develop
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3">
+            <span class="md-nav__icon md-icon"></span>
+            Develop
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/elearning/elearning_material/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    E-learning material
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/elearning/elearning_openandFAIR/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Make e-learning materials open and FAIR
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_4" id="__nav_7_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Deliver
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_4">
+            <span class="md-nav__icon md-icon"></span>
+            Deliver
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/elearning/elearning_coordination/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Course coordination
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Evaluate
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            Evaluate
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../topics/elearning/elearning_evaluation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    E-learning evaluation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../Glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Glossary
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#register-participants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Register Participants
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#free-courses-with-no-maximum" class="md-nav__link">
+    <span class="md-ellipsis">
+      Free courses with no maximum
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#courses-with-fees" class="md-nav__link">
+    <span class="md-ellipsis">
+      Courses with fees
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Courses with fees">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#preselection-and-number-of-participants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Preselection and number of participants
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#export-excel-sheet-and-sort-participants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Export excel sheet and sort participants
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#register-participants-in-courseadmin" class="md-nav__link">
+    <span class="md-ellipsis">
+      Register participants in courseadmin
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#send-an-e-mail-and-create-payment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Send an e-mail and create payment
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#waiting-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      Waiting list
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cancellations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cancellations
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#closing-registration" class="md-nav__link">
+    <span class="md-ellipsis">
+      Closing registration
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>Register Participants</h1>
+
+<h2 id="register-participants">Register <abbr title="a person who is registered to a course">Participants</abbr></h2>
+<p>The <abbr title="Training manager: a person who coordinates the development of a course/training from A to Z.">Manager</abbr> organising the course is responsible for registering applicants. While this can be done only once when the applications exceed the maximum number of participants, it may need to be done in several iterations, starting 1 month prior to the first day of the course. </p>
+<h2 id="free-courses-with-no-maximum">Free courses with no maximum</h2>
+<p>For courses which are free and have no limit on the maximum number of registered participants, all the students who have applied will be registered. In <abbr title="a system for course description and registration, which manages the registration and details of courses’ participants, as well as their payment, exam and certificates status.">courseadmin</abbr>: </p>
+<ul>
+<li>Find the course entry. </li>
+<li>Select Students to display all the applicants for the course. </li>
+<li>Find duplicate entries by visually inspecting the Name and Email fields. If the email is the same, select all but one of the entries and change the Reg. Status from Applied to Removed. </li>
+<li>Select all students with the Reg. Status Applied. </li>
+<li>Select the box Select All. </li>
+<li>Change the Reg. Status to Registered. </li>
+<li>Select all students with the Reg. Status Registered. </li>
+<li>Select the box Select All. </li>
+<li>Export the information for the students using the XLS NAME AND EMAIL button. </li>
+</ul>
+<p>Notifying applicants that they are registered for the course and providing them with practical information (for instance, the Zoom link if the course is streamed). To respect GDPR (General Data Protection Regulation), send all mail to yourself and put the email addresses of applicants or registered students in Bcc. </p>
+<h2 id="courses-with-fees">Courses with fees</h2>
+<p>For courses with fees, participants are registered on a first come, first served basis, exceptions may be made to ensure diversity and equity, which may increase the time before your registration is confirmed. The procedure described ensures that the Equality, Diversity, Inclusion Checklist is followed while respecting the mission of the SIB Training group. This requires that the information for the students who have applied for the course in <abbr title="a system for course description and registration, which manages the registration and details of courses’ participants, as well as their payment, exam and certificates status.">courseadmin</abbr> be exported: </p>
+<h3 id="preselection-and-number-of-participants">Preselection and number of participants</h3>
+<ul>
+<li>Find the course entry. </li>
+<li>Select Students to display all the applicants for the course. </li>
+<li>If the trainers have requested that members of their team attend the course, register those first by editing the entry and changing the Reg. Status from Applied to Registered. If they are in the SIB directory (SIB members) change the price to 0 CHF. </li>
+<li>If the previous instance of the course had a waiting list, register those who registered for the course and were on the waiting list next. </li>
+<li>Note how many participants are registered. Subtract this number from the maximum number of participants and add 2 students (in case of cancellations). </li>
+</ul>
+<h3 id="export-excel-sheet-and-sort-participants">Export excel sheet and sort participants</h3>
+<ul>
+<li>Select all students with the Reg. Status applied. </li>
+<li>Select the box Select All. </li>
+<li>Export the information for the students using the XLS CUSTOM button. </li>
+<li>Select the box Select all fields and click on the EXPORT button. While you will not need all the information to register participants, this is the quickest way to pull out the necessary information. </li>
+<li>An Excel file with all the information for the applicants is generated and automatically downloaded. Open the file in Excel: </li>
+<li>Sort all entries by Name or Email to see if there are any multiple entries for the same applicant. If there are, keep a single entry (if applicable, the one that contains special comments) and change the Reg. Status from Applied to Removed and highlight the text of the entry in red. </li>
+<li>Sort all entries by Date inscription. </li>
+<li>Starting with the first line, change the Reg. Status from Applied to Registered and highlight the text of the entry in green. </li>
+<li>View the What is your gender?, What is your country of employment? And Is Academic fields for the student you have just marked as registered. Move down the list to register the next line with an applicant of a different gender, bearing in mind that you should register maximum 10% of students from outside Switzerland and try to include participants from industry, until you reach the number of students that you have previously determined can be registered. </li>
+<li>Filter for all entries with Reg. Status Registered and check in the: </li>
+<li>What is your gender? field that the female: male ratio is approximately 50:50. This ratio may vary as in some cases the ratio of applicants is biased. </li>
+<li>What is your country of employment? field that the number of students from outside Switzerland is approximately 10%. This percentage may vary as the proportion of applications from abroad may be significantly higher than those from Switzerland for some courses. </li>
+<li>What is your career stage? field that the registered participants are primarily PhD candidates and Postdoctoral researcher. </li>
+<li>If there are many entries with Reg. Status Applied, add an additional column labelled Register next and note the order and specify if this applies to an application from Switzerland or abroad. This will enable the #<abbr title="Training Administrator: a person who assists the #Manager in all administrative tasks">Admin</abbr> to take care of the waiting list. </li>
+<li>Save all changes in the Excel file. </li>
+</ul>
+<h3 id="register-participants-in-courseadmin">Register participants in <abbr title="a system for course description and registration, which manages the registration and details of courses’ participants, as well as their payment, exam and certificates status.">courseadmin</abbr></h3>
+<ul>
+<li>Using the Excel file as your reference, update the Reg. Status students who have applied for the course in <abbr title="a system for course description and registration, which manages the registration and details of courses’ participants, as well as their payment, exam and certificates status.">courseadmin</abbr>: </li>
+<li>Starting with all entries with the text in red, find the student and change the Reg. Status from Applied to Removed. </li>
+<li>For all entries with the text in green, find the student and change the Reg. Status from Applied to Registered. </li>
+<li>Put remaining students on waiting list:  <ul>
+<li>Select all students with the Reg. Status applied. </li>
+<li>Select the box Select All. </li>
+<li>Change the Reg. Status to Waiting list. </li>
+<li>Save the change. </li>
+</ul>
+</li>
+<li>Check the breakdown in <abbr title="a person who is registered to a course">Participant</abbr> status at the top left of the page. </li>
+</ul>
+<h3 id="send-an-e-mail-and-create-payment">Send an e-mail and create payment</h3>
+<p>Send a mail to students indicating they are registered and provide a link for payment. This is done as follows: </p>
+<ul>
+<li>Select all students with the Reg. Status Registered. </li>
+<li>Select the box Select All. </li>
+<li>Click on the button CREATE PAYMENT – SEND EMAIL. The number of emails will be indicated at the bottom of the page. Note that if there should be an error message if the student does not have Reg. Status registered as this is a condition to send a request for payment. </li>
+<li>Make sure you receive a copy of the mail sent to students. If that is not the case, contact IT. </li>
+<li>Update the coordination-tasks-list.xlsx </li>
+</ul>
+<h2 id="waiting-list">Waiting list</h2>
+<p>The <abbr title="Training manager: a person who coordinates the development of a course/training from A to Z.">Manager</abbr> organising the course is responsible for notifying applicants that they are on the waiting list. This requires that the information for the students who are on the waiting list for the course in <abbr title="a system for course description and registration, which manages the registration and details of courses’ participants, as well as their payment, exam and certificates status.">courseadmin</abbr> be exported: </p>
+<ul>
+<li>Find the course entry. </li>
+<li>Select Students to display all the applicants for the course. </li>
+<li>Select all students with the Reg. Status waiting list. </li>
+<li>Select the box Select All. </li>
+<li>Select the box Select All. </li>
+<li>Export the information for the students using the XLS NAME AND EMAIL button. </li>
+<li>Notify applicants that they are on the waiting list. To respect GDPR (General Data Protection Regulation), send a mail to yourself and put the email addresses of applicants or registered students in Bcc using this template. </li>
+<li>If needed, send a mail to the #<abbr title="Training Administrator: a person who assists the #Manager in all administrative tasks">Admin</abbr> to handle the waiting list and payments. Attach the Excel sheet where you noted the next applicants that should be offered a spot. </li>
+</ul>
+<h2 id="cancellations">Cancellations</h2>
+<p>The <abbr title="Training manager: a person who coordinates the development of a course/training from A to Z.">Manager</abbr> organising the course generally takes care of cancellations. However, if the waiting list and payments are being handled by the #<abbr title="Training Administrator: a person who assists the #Manager in all administrative tasks">Admin</abbr>, he/she can also deal with cancellations. </p>
+<p>This is done in <abbr title="a system for course description and registration, which manages the registration and details of courses’ participants, as well as their payment, exam and certificates status.">courseadmin</abbr> as follows: </p>
+<ul>
+<li>Find the course entry. </li>
+<li>Select Students to display all the applicants for the course. </li>
+<li>Search for the student&rsquo;s name in the Name field. </li>
+<li>Change the Reg. Status to cancelled if this is before the registration deadline and absent if this is after the registration deadline. </li>
+<li>Save the change. </li>
+</ul>
+<p>The student should be notified by mail that his/her registration had been cancelled. </p>
+<h2 id="closing-registration">Closing registration</h2>
+<p>The <abbr title="Training manager: a person who coordinates the development of a course/training from A to Z.">Manager</abbr> closes the course to applications in <abbr title="a system for course description and registration, which manages the registration and details of courses’ participants, as well as their payment, exam and certificates status.">courseadmin</abbr> . For courses with fees, this is done either when the number of applications largely exceeds the maximum number of participants for the course or at the latest 7 days prior to beginning of the course. For courses which are free and have no limit on the maximum number of registered participants (for instance, lectures on SIB Resources), this can be done 1-2 days prior to the lecture. </p>
+<p>To close registrations, find the course entry and edit the course entry in the following way: </p>
+<ul>
+<li>Change Web Registration to No (was Yes). This will remove the Apply button in the course description. </li>
+<li>Change Course reg. status to Closed (was Open). This will change the status of the course displayed in the Upcoming training courses. </li>
+<li>Indicate on top of the course description that the course is closed. </li>
+<li>Update the <a href="https://sibcloud-my.sharepoint.com/:x:/g/personal/patricia_palagi_sib_swiss/EZneXy5SD7lApYqGNzj8vsMB8b67OHWWA3NJgfTcgzvFoA?e=4y8jkN">coordination-tasks-list.xlsx</a></li>
+</ul>
+
+
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Last update">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 21, 2025 14:10:00 UTC">August 21, 2025</span>
+  </span>
+
+    
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Created">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 21, 2025 14:10:00 UTC">August 21, 2025</span>
+  </span>
+
+    
+    
+    
+  </aside>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../../../..", "features": [], "search": "../../../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../../assets/javascripts/bundle.92b07e13.min.js"></script>
+      
+    
+  </body>
+</html>
