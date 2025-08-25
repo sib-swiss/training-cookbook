@@ -23,10 +23,10 @@ Let’s develop and provide training on the latest bioinformatic methods and dat
 
 | Important Dates   | Definition                           |
 | ----------------------------- | ------------------------------------ |
-| 15 Sep                        | **Deadline for course proposals** |
-| 17 - 25 Sep                   | Selection process |
-| 26 Sep                        | **SIB courses acceptance notification** |
-| 20 Oct                        | SIB courses programs online (dates, final title and description)  |
+| Mid Sep                        | **Deadline for course proposals** |
+| Mid Sep                        | Selection process |
+| End Sep                        | **SIB courses acceptance notification** |
+| Mid Oct                        | SIB courses programs online (dates, final title and description)  |
 | Jan - Dec of following year   | Course taught |
 
 ### How to submit your proposal
