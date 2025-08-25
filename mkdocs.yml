@@ -21,8 +21,8 @@ nav:
   - Deliver:
   # course coordination could become one page or less pages
     - Course coordination:
-      - Register Participants: procedures/course_coordination/participants/register_participants.md
       - Open and announce the course: procedures/course_coordination/participants/open_course.md
+      - Register Participants: procedures/course_coordination/participants/register_participants.md
       - Manage Payments: procedures/course_coordination/participants/manage_payments.md
       - Send practical information to registered participants: procedures/course_coordination/participants/send_info.md
       - Attendance list and exams: procedures/course_coordination/participants/attendance_exam.md
