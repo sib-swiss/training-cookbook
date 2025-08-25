@@ -21,8 +21,8 @@ nav:
   - Deliver:
   # course coordination could become one page or less pages
     - Course coordination:
-      - Register Participants: procedures/course_coordination/participants/register_participants.md
       - Open and announce the course: procedures/course_coordination/participants/open_course.md
+      - Register Participants: procedures/course_coordination/participants/register_participants.md     
       - Manage Payments: procedures/course_coordination/participants/manage_payments.md
       - Send practical information to registered participants: procedures/course_coordination/participants/send_info.md
       - Attendance list and exams: procedures/course_coordination/participants/attendance_exam.md
@@ -62,11 +62,8 @@ theme:
   name: material
   logo: assets/images/SIB_logo.svg
   favicon: assets/images/SIB_logo.svg
-  features:
-    - search.suggest
-    - search.highlight
-    - search.share
-  palette:
+  theme:
+  palette: 
 
     # Palette toggle for light mode
     - scheme: default
@@ -113,12 +110,11 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - search
   - git-revision-date-localized:
       enable_creation_date: true
-  # - git-committers:
-  #     repository: sib-swiss/training-cookbook
-  #     branch: main
-  #     token: !ENV ["CI_JOB_TOKEN"]
+  - git-committers:
+      repository: sib-swiss/training-cookbook
+      branch: 11-add-date-and-committers-to-each-page
+      token: !ENV ["CI_JOB_TOKEN"]
   # - git-authors
 
