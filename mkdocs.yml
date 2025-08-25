@@ -62,8 +62,11 @@ theme:
   name: material
   logo: assets/images/SIB_logo.svg
   favicon: assets/images/SIB_logo.svg
-  theme:
-  palette: 
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+  palette:
 
     # Palette toggle for light mode
     - scheme: default
@@ -110,11 +113,12 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
+  - search
   - git-revision-date-localized:
       enable_creation_date: true
-  - git-committers:
-      repository: sib-swiss/training-cookbook
-      branch: 11-add-date-and-committers-to-each-page
-      token: !ENV ["CI_JOB_TOKEN"]
+  # - git-committers:
+  #     repository: sib-swiss/training-cookbook
+  #     branch: main
+  #     token: !ENV ["CI_JOB_TOKEN"]
   # - git-authors
 
