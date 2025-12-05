@@ -11,18 +11,19 @@ This email confirms the registration to the participants, includes the link to p
 
 ## ✅ Payment Status Guide in SIByl
 
-### 1. When Payment Is Accepted
+### When Payment Is Accepted
 The system updates the status based on the payment method:
 
-**Credit Card (cc):**
+1. **Credit Card (cc):**
   - **Paid cc** → Payment completed by credit card.
   - **Authorized cc** → Payment authorized but not yet finalized.
-**Internal Transfer (it):**
+ 
+2. **Internal Transfer (it):**
   - **Received it** → Request for internal transfer received.
   - **Paid it** → Payment completed via internal transfer (This is done after Finance confirms the payment in SIByl).
 
 
-### 2. What Does “Received it” Mean?
+### What Does “Received it” Mean?
 - **“Received it” ≠ Money received.**
 - It means: *We have received the request for an internal transfer, but funds are not yet confirmed.*
 
