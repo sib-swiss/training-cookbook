@@ -15,10 +15,12 @@ This email confirms the registration to the participants, includes the link to p
 The system updates the status based on the payment method:
 
 1. **Credit Card (cc):**
+  
   - **Paid cc** → Payment completed by credit card.
   - **Authorized cc** → Payment authorized but not yet finalized.
  
 2. **Internal Transfer (it):**
+  
   - **Received it** → Request for internal transfer received.
   - **Paid it** → Payment completed via internal transfer (This is done after Finance confirms the payment in SIByl).
 
