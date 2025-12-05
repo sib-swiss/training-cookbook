@@ -20,7 +20,7 @@ nav:
     - Metadata mapping: topics/metadata.md
   - Deliver:
   # course coordination could become one page or less pages
-    - Course coordination:
+    - Course instance coordination:
       - Open and announce the course: procedures/course_coordination/participants/open_course.md
       - Register Participants: procedures/course_coordination/participants/register_participants.md
       - Manage Payments: procedures/course_coordination/participants/manage_payments.md
