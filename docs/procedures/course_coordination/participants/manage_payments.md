@@ -8,7 +8,25 @@ The Manager then selects the registered participants either by filtering out on 
 
 This email confirms the registration to the participants, includes the link to proceed to payment and propose to him/her two possible means of payment (credit card or internal transfer for some SIB member). It also includes the deadline for payment and the SIB Training general conditions.  The **Reg. Fee** in courseadmin is then updated from amount(na) to amount (PENDING). 
 
-Once a payment has been accepted by the SIB system, the status changed to amount (Paid cc) or (Authorized cc) when it was done by cc or (Paid it) of it was by internal transfer. 
+
+# ✅ Payment Status Guide in SIByl
+
+## 1. When Payment Is Accepted
+The system updates the status based on the payment method:
+
+- **Credit Card (cc):**
+  - **Paid cc** → Payment completed by credit card.
+  - **Authorized cc** → Payment authorized but not yet finalized.
+- **Internal Transfer (it):**
+  - **Received it** → Request for internal transfer received.
+  - **Paid it** → Payment completed via internal transfer (This is done after Finance confirms the payment in SIByl).
+
+
+## 2. What Does “Received it” Mean?
+- **“Received it” ≠ Money received.**
+- It means:  
+  **We have received the request for an internal transfer, but funds are not yet confirmed.**
+
 
 A week to 10 days after notifying participants that they are registered and need to pay, the Manager checks who has not paid by looking at the Reg . Fee values. If the status is still pending (amount(PENDING)), a payment reminder email is sent manually to those concerned (See [template](https://sibcloud-my.sharepoint.com/:w:/g/personal/patricia_palagi_sib_swiss/EdjDcM1ff2ZCpeF-Tpw41bQBOvXAQfeCAcYmfO9d8N0Ujw?e=LHbB5s)). Another 5 to 7 days are given to proceed to payment (initially the participant has 5 days to pay). If by the 2nd deadline no payment has been made, the registered participant’s registration is changed to cancelled by selecting the line and changing the **Reg. Status** to cancelled for that entry. This is iterative and depends on when applicants were registered. It allows applicants on waiting list to be offered a seat.  
 
