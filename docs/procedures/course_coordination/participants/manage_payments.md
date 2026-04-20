@@ -1,4 +1,4 @@
-Managing payments is usually an ongoing process from the moment the applicants are registered and notified that they need to pay to the last payment received. The entire process, which takes place via courseadmin , might take more or less time depending on how fast payments are made. It also very much depends on the number of cancellations received over the payment period. 
+Managing payments is usually an ongoing process from the moment the applicants are registered and notified that they need to pay to the last payment received. The entire process, which takes place via courseadmin, might take more or less time depending on how fast payments are made. It also very much depends on the number of cancellations received over the payment period. 
 
 Once selected applicants are registered (see above [Register Participants](register_participants.md)), they should all have their **Reg. Status** to “registered”. The Manager also checks that those with the field Is academic = No, are indeed non-academic and that their **Reg. Fee** is the one for the for-profit organizations (conversely, check that **#Participant(s)** with non-academic email addresses have the status Is academic = No). If needed, the Manager can change update these fields by editing the corresponding registered Participant (entry(ies). 
 
@@ -7,6 +7,15 @@ The Manager then selects the registered participants either by filtering out on 
 **image of email to be added**
 
 This email confirms the registration to the participants, includes the link to proceed to payment and propose to him/her two possible means of payment (credit card or internal transfer for some SIB member). It also includes the deadline for payment and the SIB Training general conditions.  The **Reg. Fee** in courseadmin is then updated from amount(na) to amount (PENDING). 
+
+## Waiving of fees
+
+Fees can be waived in the following cases: 
+
+- An applicant is a member of a group that provides a trainer. At time of writing, this would be e.g. sciCORE, IBU and Vital-IT. 
+- An applicant has made a significant contribution to SIB courses, for example as a helper or trainer. 
+
+If fees are waived, change the registration fee for that applicant to 0 in courseadmin before registering the participant. If the participant is already registered and payment information has been sent, notify the participant and the administrative assistant. 
 
 
 ## ✅ Payment Status Guide in SIByl
