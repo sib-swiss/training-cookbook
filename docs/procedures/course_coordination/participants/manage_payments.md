@@ -15,7 +15,7 @@ Fees can be waived in the following cases:
 - An applicant is a member of a group that provides a trainer. At time of writing, this would be e.g. sciCORE, IBU and Vital-IT. 
 - An applicant has made a significant contribution to SIB courses, for example as a helper or trainer. 
 
-If fees are waived, change the registration fee for that applicant to 0 in courseadmin before registering the participant. If the participant is already registered and payment information has been sent, notify the participant and the administrative assistant. 
+If fees are waived, change the registration fee for that applicant to 0 in courseadmin before registering the participant. If the participant is already registered and payment information has been sent, change the fee to 0 in courseadmin and notify the participant and the administrative assistant. 
 
 
 ## ✅ Payment Status Guide in SIByl
