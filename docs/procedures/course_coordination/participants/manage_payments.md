@@ -12,10 +12,10 @@ This email confirms the registration to the participants, includes the link to p
 
 Fees can be waived in the following cases: 
 
-- An applicant is a member of a group that provides a trainer. At time of writing, this would be e.g. sciCORE, IBU and Vital-IT. 
-- An applicant has made a significant contribution to SIB courses, for example as a helper or trainer. 
+- An applicant is a member of a group contributing to the teaching. At time of writing, this would mainly be sciCORE, IBU, DDQBM, Vital-IT (including KRU) and BDSF. This list is not exhaustive as groups developing SIB resources or external groups are also regularly involved in training. 
+- An applicant has made a significant contribution to SIB courses, for example as a helper or trainer. As a rough estimate, participation in a SIB course is granted if the applicant has contributed to a different course with a similar duration (i.e. 1 day of helping = 1 day of attendance).
 
-If fees are waived, change the registration fee for that applicant to 0 in courseadmin before registering the participant. If the participant is already registered and payment information has been sent, change the fee to 0 in courseadmin and notify the participant and the administrative assistant. 
+If fees are waived, change the registration fee for that applicant to 0 in courseadmin before registering the participant. If the participant is already registered and payment information has been sent, change the fee to 0 in courseadmin, resend the confirmation email, and notify the administrative assistant that a non-zero pending payment needs to be cancelled (not visible in course admin anymore).
 
 
 ## ✅ Payment Status Guide in SIByl
