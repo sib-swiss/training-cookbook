@@ -1,4 +1,4 @@
-Managing payments is usually an ongoing process from the moment the applicants are registered and notified that they need to pay to the last payment received. The entire process, which takes place via courseadmin , might take more or less time depending on how fast payments are made. It also very much depends on the number of cancellations received over the payment period. 
+Managing payments is usually an ongoing process from the moment the applicants are registered and notified that they need to pay to the last payment received. The entire process, which takes place via courseadmin, might take more or less time depending on how fast payments are made. It also very much depends on the number of cancellations received over the payment period. 
 
 Once selected applicants are registered (see above [Register Participants](register_participants.md)), they should all have their **Reg. Status** to “registered”. The Manager also checks that those with the field Is academic = No, are indeed non-academic and that their **Reg. Fee** is the one for the for-profit organizations (conversely, check that **#Participant(s)** with non-academic email addresses have the status Is academic = No). If needed, the Manager can change update these fields by editing the corresponding registered Participant (entry(ies). 
 
@@ -8,6 +8,9 @@ The Manager then selects the registered participants either by filtering out on 
 
 This email confirms the registration to the participants, includes the link to proceed to payment and propose to him/her two possible means of payment (credit card or internal transfer for some SIB member). It also includes the deadline for payment and the SIB Training general conditions.  The **Reg. Fee** in courseadmin is then updated from amount(na) to amount (PENDING). 
 
+## Waiving of fees
+
+Fees can be waived in the several cases. More information about that on [OneNote](https://sibcloud-my.sharepoint.com/personal/patricia_palagi_sib_swiss/_layouts/Doc.aspx?sourcedoc={62777F84-11F6-4078-A386-712E61B0E9B1}&wd=target%28Quick%20reference.one%7C68E8B806-DD4D-4FEF-9583-89B8846C75F3%2FWaiving%20fees%7CF8913B85-45D7-4145-B3F3-924D4BF942D9%2F%29&wdpartid={B4EAAA6F-F3F7-FF04-1441-3545320499F8}{1}&wdsectionfileid={3225D6DC-3BCC-48B0-9989-B02FEEFECB22}&end) (internal only). If fees are waived, change the registration fee for that applicant to 0 in courseadmin before registering the participant. If the participant is already registered and payment information has been sent, change the fee to 0 in courseadmin, resend the confirmation email, and notify the administrative assistant that a non-zero pending payment needs to be cancelled (not visible in course admin anymore).
 
 ## ✅ Payment Status Guide in SIByl
 
