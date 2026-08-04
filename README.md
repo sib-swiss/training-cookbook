@@ -4,34 +4,34 @@ Hosted at [https://sib-swiss.github.io/training-cookbook](https://sib-swiss.gith
 
 ## How to develop locally
 
-This website is generated with [MkDocs](https://www.mkdocs.org/), with the theme [Material](https://squidfunk.github.io/mkdocs-material/).
+This website is generated with [Zensical](https://zensical.org/), the successor to MkDocs built by the Material for MkDocs team, reading the existing `mkdocs.yml` configuration.
 
 To host it locally, clone this repository including the flowchart submodule:
 
 ```bash
-git clone --recurse-submodules
+git clone --recurse-submodules https://github.com/sib-swiss/training-cookbook.git
 ```
 
-Then, install `mkdocs-material`:
+Then, install `zensical` (ideally in a virtual environment):
 ```bash
-pip install mkdocs-material
+pip install zensical
 ```
 
 To run the website locally, you can use:
 
 ```bash
-mkdocs serve
+zensical serve
 ```
 
 Check it out with your browser at [http://localhost:8000/](http://localhost:8000/).
 
-For an automatically generated github page, you can run:
+To build a static version of the site (e.g. to check the output before pushing):
 
 ```sh
-mkdocs gh-deploy
+zensical build --clean
 ```
 
-This will generate a webpage at:
+This generates the site in the `site/` directory. On push to `main`, the [build-site workflow](.github/workflows/build_site.yml) builds the site with Zensical and publishes it to GitHub Pages automatically at:
 
-https://yourname.github.io/reponame
+https://sib-swiss.github.io/training-cookbook
 

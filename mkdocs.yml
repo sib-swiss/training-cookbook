@@ -114,6 +114,8 @@ extra_css:
 
 plugins:
   - search
+  # git-revision-date-localized is not yet supported by Zensical (Tier 2 / backlog),
+  # so it currently has no effect — kept here so it resumes working once Zensical adds support.
   - git-revision-date-localized:
       enable_creation_date: true
   # - git-committers:
