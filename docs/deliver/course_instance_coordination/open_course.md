@@ -1,6 +1,6 @@
 Courses are opened and the first announcement is made approximately 2 months prior to the start of the course.  
 
-The Manager is responsible for announcing that the course is open for applications. The full course description, including tags, must be displayed online in the [Upcoming training courses page](https://www.sib.swiss/training/upcoming-training-courses) for the course to be announced. Courses are advertised using several different communication channels that target different audiences. 
+The Coordinator is responsible for announcing that the course is open for applications. The full course description, including tags, must be displayed online in the [Upcoming training courses page](https://www.sib.swiss/training/upcoming-training-courses) for the course to be announced. Courses are advertised using several different communication channels that target different audiences. 
 
 Opening the course to applications and announcing it 
 
@@ -38,7 +38,7 @@ Anyone who has signed up or who has participated in a SIB course is on the [SIB 
 
 12. The course is also announced on social media: 
 
-    - Manager announces the course on [SIB Training LinkedIn page](https://www.linkedin.com/showcase/sib-swiss-institute-of-bioinformatics-training/). See Template [here](https://sibcloud.sharepoint.com/:w:/r/sites/T-COMM/_layouts/15/doc2.aspx?sourcedoc=%7B3E1147B0-FC59-4130-9D19-A291184B5B99%7D&file=LinkedIn%20Showcase%20Page%20for%20Training.docx&nav=eyJjIjoxNTIyMjkyMzIyfQ&action=default&mobileredirect=truethat). If you also have a LinkedIn account, feel free to repost, especially if there are few applications. 
+    - Coordinator announces the course on [SIB Training LinkedIn page](https://www.linkedin.com/showcase/sib-swiss-institute-of-bioinformatics-training/). See Template [here](https://sibcloud.sharepoint.com/:w:/r/sites/T-COMM/_layouts/15/doc2.aspx?sourcedoc=%7B3E1147B0-FC59-4130-9D19-A291184B5B99%7D&file=LinkedIn%20Showcase%20Page%20for%20Training.docx&nav=eyJjIjoxNTIyMjkyMzIyfQ&action=default&mobileredirect=truethat). If you also have a LinkedIn account, feel free to repost, especially if there are few applications. 
     
     GROUND RULES: 
 ·         Only use We (instead of I) - we talk in the name of the group  
@@ -47,10 +47,10 @@ Anyone who has signed up or who has participated in a SIB course is on the [SIB 
 
 13. Notify the Trainer by email (forward the announcement for the course) that registration for their course is now opened and ask them to also advertise the course (on their web site, BlueSky, X, etc.), especially if they are not from SIB. 
 
-14. The SIB Members update (SMU) newsletter is sent out monthly, except in July and August. Refer to the [coordination-tasks-list.xlsx](https://sibcloud-my.sharepoint.com/:x:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/References/coordination-tasks-list.xlsx?d=w2e5fde990f5240b9a58a863738fcbec3&csf=1&web=1&e=eRLDQG) for the dates. The Manager add the courses that need to be advertised in the SMU into the [shared document](https://sibcloud.sharepoint.com/:w:/r/sites/T-COMM/Shared%20Documents/General/Internal_communication/SMU/SMU_courses-list.docx?d=w3a36c6d431dc4fc9aee12da85f831dcc&csf=1&web=1&e=rUYLDv) (See contact email in [OneNote](https://sibcloud-my.sharepoint.com/:o:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/References/Minutes/Training?d=w62777f8411f64078a386712e61b0e9b1&csf=1&web=1&e=srNcYb)). The SIB Communications Officer is in charge of sending the SMU newsletter (SIB Members Update) once a month. In the newsletter, there is a Training section in which 2-4 courses are highlighted (sometimes more). 
+14. The SIB Members update (SMU) newsletter is sent out monthly, except in July and August. Refer to the [coordination-tasks-list.xlsx](https://sibcloud-my.sharepoint.com/:x:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/References/coordination-tasks-list.xlsx?d=w2e5fde990f5240b9a58a863738fcbec3&csf=1&web=1&e=eRLDQG) for the dates. The Coordinator add the courses that need to be advertised in the SMU into the [shared document](https://sibcloud.sharepoint.com/:w:/r/sites/T-COMM/Shared%20Documents/General/Internal_communication/SMU/SMU_courses-list.docx?d=w3a36c6d431dc4fc9aee12da85f831dcc&csf=1&web=1&e=rUYLDv) (See contact email in [OneNote](https://sibcloud-my.sharepoint.com/:o:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/References/Minutes/Training?d=w62777f8411f64078a386712e61b0e9b1&csf=1&web=1&e=srNcYb)). The SIB Communications Officer is in charge of sending the SMU newsletter (SIB Members Update) once a month. In the newsletter, there is a Training section in which 2-4 courses are highlighted (sometimes more). 
 
 15. If necessary, re-advertise the course: 
 
     - Send another email to the SIB Training mailing list using this template. 
 
-The Manager will then proceed to register participants once the maximum number of students has been reached or one month before the course takes place, whichever comes first.
+The Coordinator will then proceed to register participants once the maximum number of students has been reached or one month before the course takes place, whichever comes first.

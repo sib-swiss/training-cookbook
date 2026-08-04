@@ -29,7 +29,7 @@ Exams should not exceed 30 minutes per day of course (7 hours / 25 = 0.28; 7 hou
 
 - For participants: Exams should not take more than 30 minutes per day of course. Keep it simple!
 - For participants: Exams should be returned to teachers within 2 - 7 days after the course ended.
-- For trainers: Results should be sent back to the manager and admin within a resonable short time period.
+- For trainers: Results should be sent back to the Coordinator and admin within a reasonable short time period.
 - Certificates should be sent to participants within 2 weeks after the course ends.
 
 ### Types of Exams

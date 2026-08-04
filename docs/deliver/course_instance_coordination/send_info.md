@@ -1,6 +1,6 @@
 ## Send practical information to registered participants 
 
-The Manager organising the course is responsible for sending the practical information to registered participants. 
+The Coordinator organising the course is responsible for sending the practical information to registered participants. 
 
 Before sending the practical information to registered participants, send your draft mail to the Trainer to check that all that is required is included and there are no last-minute changes.  
 

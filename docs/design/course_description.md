@@ -1,6 +1,6 @@
 ## Enter course descriptions in courseadmin
 
-The Manager organising the course is responsible for the course description which should reflect the content that the Trainer plans to teach. The course description also provides the basis for the course announcement to the mailing list, as it contains the date, title, location, and an overview describing the course. All course descriptions are written in English (UK). 
+The Coordinator organising the course is responsible for the course description which should reflect the content that the Trainer plans to teach. The course description also provides the basis for the course announcement to the mailing list, as it contains the date, title, location, and an overview describing the course. All course descriptions are written in English (UK). 
 
 Depending on the date of the course, course descriptions are displayed either in: 
 
@@ -11,7 +11,7 @@ The course information is also scraped automatically and displayed in the ELIXIR
 
 **Confirm date and course title with trainers**
 
-Once a Manager has been assigned a course, he/she should confirm with the Trainers the course and the date(s) they will be giving it. The course description is entered in courseadmin as soon as the basic information about the course is known. The procedure depends on whether the course has been given before or whether it is a new course (see below) 
+Once a Coordinator has been assigned a course, he/she should confirm with the Trainers the course and the date(s) they will be giving it. The course description is entered in courseadmin as soon as the basic information about the course is known. The procedure depends on whether the course has been given before or whether it is a new course (see below) 
 
 <span style="color:red">**IMPORTANT**</span> After this initial step, if there are any changes, these should immediately be updated in: 
 
@@ -36,7 +36,7 @@ The following fields should be reviewed and changed, if necessary (it is wise to
 
     - If the course will be given by different Trainers, the trainer field is modified. The full name of each Trainer (Firstname Lastname) is indicated and separated by commas. Example: “Alex Carter, Jamie Morgan”. 
 
-    - If the course is being organised by a different Manager, the Organiser is modified. 
+    - If the course is being organised by a different Coordinator, the Organiser is modified. 
 
     - The Start date of the course is entered. 
 
@@ -74,7 +74,7 @@ The following fields should be reviewed and changed, if necessary (it is wise to
 
     - The Venue and Time may need to be modified if the format of the course has changed. A full day course generally starts at 9:00 CET and end at 17:00 CET, with a 1h lunch break and two 15 min coffee breaks. (Free online courses can start at 15:00 CET and end at 18:00 CET to accommodate Participants living in the Americas). 
 
-    - In the Additional Information, the coordinator’s name may need to be modified if the Manager is different from the last instance of the course. 
+    - In the Additional Information, the Coordinator’s name may need to be modified if the Coordinator is different from the last instance of the course. 
 
 5. In SIB web tags, if the Trainers have changed or if the course description does not include any, these should be modified or added, respectively. 
 
@@ -82,7 +82,7 @@ The following fields should be reviewed and changed, if necessary (it is wise to
 
 7. Once the course description is finalized, SIB Web should be changed to Yes. The course description will be displayed in the Upcoming courses page. 
 
-8. The course description displayed online should be reviewed to ensure there are no error. 
+8. The course description displayed online should be reviewed to ensure there are no errors. 
 
 9. Update the [coordination-tasks-list.xlsx](https://sibcloud-my.sharepoint.com/:x:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/References/coordination-tasks-list.xlsx?d=w2e5fde990f5240b9a58a863738fcbec3&csf=1&web=1&e=9oZhZw). 
 
@@ -100,7 +100,7 @@ The course description is entered in courseadmin as soon as the basic informatio
 
     - The Trainers' name should be entered. The full name of each Trainer (Firstname Lastname) is indicated and separated by commas. Example: “Ethan Blake, Olivia Bennett”. 
 
-    - The name of the Manager should be entered as the Organiser. 
+    - The name of the Coordinator should be entered as the Organiser. 
 
     - The Start date of the course is entered. 
 
@@ -128,11 +128,11 @@ The course description is entered in courseadmin as soon as the basic informatio
 
 6. Update the [coordination-tasks-list.xlsx](https://sibcloud-my.sharepoint.com/:x:/g/personal/patricia_palagi_sib_swiss/EZneXy5SD7lApYqGNzj8vsMB8b67OHWWA3NJgfTcgzvFoA?e=2E2uVP). 
 
-The next step is for the Manager and the Trainer to define the course content. 
+The next step is for the Coordinator and the Trainer to define the course content. 
 
 ## Finalize course description 
 
-As soon as possible, but no later than 2 months before the start of the course, the course description should be updated, completed and verified, in #courseadmin.  
+As soon as possible, but no later than 2 months before the start of the course, the course description should be updated, completed and verified, in courseadmin.  
 
 1. In Course location, the City is entered (for in person courses) or the text “Streamed from” followed by the location is entered (for streamed courses). 
 

@@ -1,5 +1,4 @@
-Connection address: [https://expense.sib.swiss](https://expense.sib.swiss
-) 
+Connection address: [https://expense.sib.swiss](https://expense.sib.swiss) 
 
 **Expenses**: always add title and date of course.  
 
@@ -9,7 +8,7 @@ Examples of reimbursement:
 
 - Reimbursement to SIB trainers when teaching in their work city or in another one 
 - Reimbursement to external trainers when teaching in their work city or in another one 
-- Reimbursement to SIB managers 
+- Reimbursement to SIB Coordinators 
 
 Note: There is no reimbursement for a trainer (SIB or non-SIB) when s/he teaches in the same city s/he works. 
 

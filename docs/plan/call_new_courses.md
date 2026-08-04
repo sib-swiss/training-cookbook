@@ -77,6 +77,6 @@ The evaluation committee, composed of the SIB Training Group members, will consi
 
 #### How we will implement the last rule of the 600 CHF? (Information to be provide to those who have been selected)
   
-The SIB group teaching will receive 600 CHF per day of course. Under an ideal scenario, the SIB group that is giving the training will reiceive 600 CHF per day of course. This could be done as credits for registration in future SIB events (i.e. [BC2 conference](https://bc2.ch/) or [SIB training courses](https://www.sib.swiss/training/upcoming-training-courses)).
+The SIB group teaching will receive 600 CHF per day of course. Under an ideal scenario, the SIB group that is giving the training will receive 600 CHF per day of course. This could be done as credits for registration in future SIB events (i.e. [BC2 conference](https://bc2.ch/) or [SIB training courses](https://www.sib.swiss/training/upcoming-training-courses)).
 However, we understand it might not be on the best interest of the new trainer to receive these 600 CHF as credits, and the Trainer might prefer to receive the money in cash.
 We are willing to have a conversation to find to the best solution for both parties.

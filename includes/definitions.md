@@ -2,11 +2,11 @@
 
 *[Trainers]: a person who trains course participants or a person who teaches specific topics to a course audience 
 
-*[Manager]: Training manager: a person who coordinates the development of a course/training from A to Z. 
+*[Coordinator]: Training Coordinator: a person who coordinates the development of a course/training from A to Z. 
 
-*[Managers]: Training manager: a person who coordinates the development of a course/training from A to Z. 
+*[Coordinators]: Training Coordinator: a person who coordinates the development of a course/training from A to Z. 
 
-*[Admin]: Training Administrator: a person who assists the #Manager in all administrative tasks 
+*[Admin]: Training Administrator: a person who assists the Coordinator in all administrative tasks 
 
 *[Participant]:  a person who is registered to a course
 

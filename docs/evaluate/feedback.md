@@ -1,6 +1,6 @@
 ## Feedback Form
 
-The Manager can find here the steps to create a feedback form and share with the students and **#Trainer(s)**
+The Coordinator can find here the steps to create a feedback form and share with the students and **Trainer(s)**
 
 Feedback Guide – Sharepoint 
 
@@ -10,7 +10,7 @@ Feedback Guide – Sharepoint
 You can copy paste the link on your browser or take the link from the coordination task list (Line 25, column A) 
 Once you duplicate it, “Duplicate this form to use as your own”. It is going to be saved in your own Documents. 
 
-2. Rename the suvey with the name of the course.
+2. Rename the survey with the name of the course.
 
 3. Set up a starting and ending date/time to fill in the form 
 
@@ -45,18 +45,18 @@ Share the Form link steps: Click on the settings of the results (..) “Collabor
 ## Send feedback results to the Trainers? 
  
 For Courses with internal SIB trainers: we can give the link to the form itself with the answers, in case they wish to visualize the feedback results as soon as the course finishes. 
-(Done by the Manager) 
+(Done by the Coordinator) 
 
 - Click on the settings of the results (..) “Collaborate or Duplicate” 
 - Copy the first link “Share to collaborate” 
 
-The Manager can send it directly to the Trainer (if the trainer belongs to SIB, will have access to the raw results and can visualize all the answers) 
+The Coordinator can send it directly to the Trainer (if the trainer belongs to SIB, will have access to the raw results and can visualize all the answers) 
 
-Also, once the feedback is closed, Manager informs Admin that he/she can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel) with the Trainers. The fille name will have the following format: YYYYMMDD_5lettersCode_feedback.pdf. 
+Also, once the feedback is closed, Coordinator informs Admin that he/she can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel) with the Trainers. The fille name will have the following format: YYYYMMDD_5lettersCode_feedback.pdf. 
 
 For Courses with external trainers:  
 
-Once the feedback is closed, Manager informs Admin that he can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel or from a print screen in the form) with the Trainers. See [Administrative Tasks](../deliver/course_instance_coordination/admin_tasks.md). 
+Once the feedback is closed, Coordinator informs Admin that he can share the last version of the feedback in pdf and a summary of questions 10, 11 and 12 (extracted from the excel or from a print screen in the form) with the Trainers. See [Administrative Tasks](../deliver/course_instance_coordination/admin_tasks.md). 
 
 Upload the feedback results in the ELIXIR Metrics Database 
 (Done by Admin)

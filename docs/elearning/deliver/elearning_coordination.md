@@ -1,6 +1,6 @@
 ## Deliver the course 
 
-For new e-learning courses, the #Trainer reviews the contents. A naïve student then takes the course to see if the level is adapted to the audience, the time it takes to complete the course, whether there are any bugs in the quizzes, etc. 
+For new e-learning courses, the Trainer reviews the contents. A naïve student then takes the course to see if the level is adapted to the audience, the time it takes to complete the course, whether there are any bugs in the quizzes, etc. 
 
 Once all the corrections to the course have been made, the e-learning course is made visible on Moodle. 
 

@@ -1,6 +1,6 @@
 ## Register Participants 
 
-The Manager organising the course is responsible for registering applicants. While this can be done only once when the applications exceed the maximum number of participants, it may need to be done in several iterations, starting 1 month prior to the first day of the course. 
+The Coordinator organising the course is responsible for registering applicants. While this can be done only once when the applications exceed the maximum number of participants, it may need to be done in several iterations, starting 1 month prior to the first day of the course. 
 
 ## Free courses with no maximum
 
@@ -45,7 +45,7 @@ For courses with fees, participants are registered on a first come, first served
 - What is your gender? field that the female: male ratio is approximately 50:50. This ratio may vary as in some cases the ratio of applicants is biased. 
 - What is your country of employment? field that the number of students from outside Switzerland is approximately 10%. This percentage may vary as the proportion of applications from abroad may be significantly higher than those from Switzerland for some courses. 
 - What is your career stage? field that the registered participants are primarily PhD candidates and Postdoctoral researcher. 
-- If there are many entries with Reg. Status Applied, add an additional column labelled Register next and note the order and specify if this applies to an application from Switzerland or abroad. This will enable the #Admin to take care of the waiting list. 
+- If there are many entries with Reg. Status Applied, add an additional column labelled Register next and note the order and specify if this applies to an application from Switzerland or abroad. This will enable the Admin to take care of the waiting list. 
 - Save all changes in the Excel file. 
 
 ### Register participants in courseadmin
@@ -72,20 +72,19 @@ Send a mail to students indicating they are registered and provide a link for pa
 
 ## Waiting list 
 
-The Manager organising the course is responsible for notifying applicants that they are on the waiting list. This requires that the information for the students who are on the waiting list for the course in courseadmin be exported: 
+The Coordinator organising the course is responsible for notifying applicants that they are on the waiting list. This requires that the information for the students who are on the waiting list for the course in courseadmin be exported: 
 
 - Find the course entry. 
 - Select Students to display all the applicants for the course. 
 - Select all students with the Reg. Status waiting list. 
 - Select the box Select All. 
-- Select the box Select All. 
 - Export the information for the students using the XLS NAME AND EMAIL button. 
 - Notify applicants that they are on the waiting list. To respect GDPR (General Data Protection Regulation), send a mail to yourself and put the email addresses of applicants or registered students in Bcc using this template. 
-- If needed, send a mail to the #Admin to handle the waiting list and payments. Attach the Excel sheet where you noted the next applicants that should be offered a spot. 
+- If needed, send a mail to the Admin to handle the waiting list and payments. Attach the Excel sheet where you noted the next applicants that should be offered a spot. 
 
 ## Cancellations 
 
-The Manager organising the course generally takes care of cancellations. However, if the waiting list and payments are being handled by the #Admin, he/she can also deal with cancellations. 
+The Coordinator organising the course generally takes care of cancellations. However, if the waiting list and payments are being handled by the Admin, he/she can also deal with cancellations. 
 
 This is done in courseadmin as follows: 
 
@@ -99,7 +98,7 @@ The student should be notified by mail that his/her registration had been cancel
 
 ## Closing registration 
 
-The Manager closes the course to applications in courseadmin . For courses with fees, this is done either when the number of applications largely exceeds the maximum number of participants for the course or at the latest 7 days prior to beginning of the course. For courses which are free and have no limit on the maximum number of registered participants (for instance, lectures on SIB Resources), this can be done 1-2 days prior to the lecture. 
+The Coordinator closes the course to applications in courseadmin . For courses with fees, this is done either when the number of applications largely exceeds the maximum number of participants for the course or at the latest 7 days prior to beginning of the course. For courses which are free and have no limit on the maximum number of registered participants (for instance, lectures on SIB Resources), this can be done 1-2 days prior to the lecture. 
 
 To close registrations, find the course entry and edit the course entry in the following way: 
 

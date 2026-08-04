@@ -1,37 +1,19 @@
-## In-person courses  
+## Types of courses at SIB 
 
-Depending on whether the Manager is onsite or not, Manager or the #Trainer(s) will determine beforehand (if on site) the location of plugs and the need for extension cables. They will also determine if the layout of the classroom must be reorganized such that all Participants have a direct view of the trainer and the screen.  
+| Term for type of course   | Definition                           |
+| ------------------------- | ------------------------------------ |
+| In person               | A mode of learning in which students and teachers are engaged at the same time (synchronously) in the same physical classroom   |
+| Streamed                | A mode of learning in which students and teachers are engaged at the same time (synchronously) in the same online classroom  |
+| E-learning              | A mode of learning in which educational resources are accessed via the Internet, asynchronously, self-paced, interactive (i.e. quizzes), and in the absence of a tutor  |
+| Blended                 | A mode of learning that combines characteristics of both synchronous and asynchronous learning.   |
+| Hybrid                  | A mode of learning in which students and teachers are engaged at the same time (synchronously). Some are in the same physical classroom, while others are in an online classroom. This type of courses is not supported today at SIB, but the definition is here as a placeholder.  |
 
-The Manager or the Trainer(s) will bring:  
+## Another view of these terms
 
-- Extension cables  
-
-- Adaptors to be lent to foreign Participants  
-
-- Post-it® that Participant can put on their computers to signal they have finished the exercise  
-
-- The attendance forms that must be signed by the Participants on each day of the course (See [Attendance list and exams](../deliver/course_instance_coordination/attendance_exam.md))  
-
-The Trainer(s) will test the beamer.  
-
-If the Manager is onsite, he/she will:  
-
-- Welcome Participants  
-
-- Introduce the Trainer(s)  
-
-- Check that the coffee breaks are delivered on time  
-
-## Streamed courses  
-
-The Manager will test the access to shared content (Moodle, shared Word files, Slack, Vevox polls, etc.).  
-
-The Manager will open the Zoom meeting in advance of the course such that:  
-
-- The Trainer(s) can quickly be admitted  
-
-- The Trainer can be made Co-hosts and test sharing their slides  
-
-- Welcome Participants  
-
-- Introduce the Trainer(s)
+| Term for type of course   | Synchronicity                 | Shared space              | Pace      | Mentoring    |
+| ------------------------- | ----------------------------- |---------------------------| --------- | ------------ |
+| In person                 | synchronous                   | presence                  | imposed   | yes          |
+| Streamed                  | synchronous                   | online                    | imposed   | yes          |
+| E-learning                | asynchronous                  | online                    | Self-paced| no           |
+| Blended                   | synchronous and asynchronous  | online or presence or both| mix       | yes          |
+| Hybrid                    | synchronous                   | online and presence       | imposed   | yes          |

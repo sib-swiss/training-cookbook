@@ -1,10 +1,10 @@
 ## Defining the course  
 
-Usually, a course project starts with an idea of a teaching goal. It starts as a general topic and little by little Manager and Trainer work together to define Learning outcomes, Overview of the course, prerequisites, audience for whom this is targeted - to be used in the courseadmin for the Course Description.  
+Usually, a course project starts with an idea of a teaching goal. It starts as a general topic and little by little Coordinator and Trainer work together to define Learning outcomes, Overview of the course, prerequisites, audience for whom this is targeted - to be used in the courseadmin for the Course Description.  
 
-Manager ask Trainer if helpers are needed, learning experiences (exercises), content the experiences, content for exam. Parts are in the course description and others are related to content. Check the feedback of previous instances – for teaching and logistics.  
+The Coordinator asks the Trainer if helpers are needed, about the learning experiences (exercises), the content of the experiences, and the content for the exam. Parts are in the course description and others are related to content. Check the feedback of previous instances – for teaching and logistics.  
 
-The Manager may provide tips on how to deliver courses, for instance based on the [Train-the-Trainer](https://github.com/TrainTheTrainer/ELIXIR-EXCELERATE-TtT) course content.  
+The Coordinator may provide tips on how to deliver courses, for instance based on the [Train-the-Trainer](https://github.com/TrainTheTrainer/ELIXIR-EXCELERATE-TtT) course content.  
 
 When designing a new course, it should be defined as [Open and FAIR](../develop/FAIR-training-flowchart/flowchart_description.md) from the beginning.  
 
@@ -12,15 +12,15 @@ When designing a new course, it should be defined as [Open and FAIR](../develop/
 
 A new course requires a lot of work to create the course content, never underestimate this.  
 
-1. In case of collaborative teaching, the Manager organizes a meeting with the Trainer(s) to make content creation possible, in particular to:  
+1. In case of collaborative teaching, the Coordinator organizes a meeting with the Trainer(s) to make content creation possible, in particular to:  
 
     i. be in line with the target audience, learning objectives, course level, and prerequisites,  
 
     ii. split up the content in an equitable manner between Trainer(s) while ensuring that the transitions will be smooth,  
 
-    iii. avoid overlapping content with what the other #rainer(s) of the course will teach and the content of other SIB courses on the topic,  
+    iii. avoid overlapping content with what the other Trainer(s) of the course will teach and the content of other SIB courses on the topic,  
 
-    iv. remind Trainer(s) of good practises concerning copyright by referring them to:  Schütz et al. (2021). [Copyright Guidelines - How to acknowledge and be acknowledged in training material](https://zenodo.org/record/5841604#.ZD8VR-xByX0) (1.0*). Zenodo.  
+    iv. remind Trainer(s) of good practices concerning copyright by referring them to:  Schütz et al. (2021). [Copyright Guidelines - How to acknowledge and be acknowledged in training material](https://zenodo.org/record/5841604#.ZD8VR-xByX0) (1.0*). Zenodo.  
     
     v. encourage Trainer(s) to make their material open and FAIR,  
 
@@ -38,7 +38,7 @@ This is the situation when the course material has already been created (by the 
 
 1. The Trainer(s) reads again the last feedback and considers taking the comments into account when possible.  
 
-2. The Manager ensures that at least one #Trainer has access to the source material from the previous course iteration, as well as access rights to the Git repository (if necessary). The access to the SIB Github must be done by one of the IT admins (see reference in [OneNote](https://sibcloud-my.sharepoint.com/:o:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/References/Minutes/Training?d=w62777f8411f64078a386712e61b0e9b1&csf=1&web=1&e=hepCBK)).  
+2. The Coordinator ensures that at least one Trainer has access to the source material from the previous course iteration, as well as access rights to the Git repository (if necessary). The access to the SIB GitHub must be done by one of the IT admins (see reference in [OneNote](https://sibcloud-my.sharepoint.com/:o:/r/personal/patricia_palagi_sib_swiss/Documents/TrainingGroup-Shared/References/Minutes/Training?d=w62777f8411f64078a386712e61b0e9b1&csf=1&web=1&e=hepCBK)).  
 
 3. The Trainer(s) ensures good data management of the content using version control of the course material, either manually or even better, using a versioning system (for instance in GitHub).  
 
@@ -55,8 +55,8 @@ The next steps must be completed for both new and existing courses:
 
 1. The Trainer(s) tests the material (slides and exercises) and provides guidelines on how to test it.  
 
-2. The Trainer(s) communicates with the Manager about the software / package(s) to be installed in advance by the participants and the possible instructions, and assignment preparation (Send practical information to registered participants)  
+2. The Trainer(s) communicates with the Coordinator about the software / package(s) to be installed in advance by the participants and the possible instructions, and assignment preparation (Send practical information to registered participants)  
 
 3. If an exam is proposed (see [Exam](../evaluate/ECTS_exam.md)), the Trainer(s) prepares an exam corresponding to the content and matching the number of ECTS (See [ECTS credits and Exam](../evaluate/ECTS_exam.md)).  
 
-4. The Trainer(s) make the course materials available at least few days before the course and inform the Manager who will share this information with the course Participants. If the course is a repetition, then the course materials should be available before (see [Make course materials open and FAIR](../develop/FAIR-training-flowchart/flowchart_description.md)).
+4. The Trainer(s) make the course materials available at least a few days before the course and inform the Coordinator who will share this information with the course Participants. If the course is a repetition, then the course materials should be available before (see [Make course materials open and FAIR](../develop/FAIR-training-flowchart/flowchart_description.md)).

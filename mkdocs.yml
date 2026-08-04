@@ -33,6 +33,7 @@ nav:
       - Course Administrative tasks: deliver/course_instance_coordination/admin_tasks.md
       - Reimbursements: deliver/course_instance_coordination/reimbursements.md
       - Course Locations: deliver/course_instance_coordination/course_location.md
+    - Setting up for the course day: deliver/course_day_setup.md
     - Delivering the Course: deliver/deliver_course.md
   - Evaluate:
     -  ECTS credits and Exam: evaluate/ECTS_exam.md
