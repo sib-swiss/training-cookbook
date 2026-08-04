@@ -6,7 +6,7 @@ Manager ask Trainer if helpers are needed, learning experiences (exercises), con
 
 The Manager may provide tips on how to deliver courses, for instance based on the [Train-the-Trainer](https://github.com/TrainTheTrainer/ELIXIR-EXCELERATE-TtT) course content.  
 
-When designing a new course, it should be defined as [Open and FAIR](../topics/FAIR-training-flowchart/flowchart_description.md) from the beginning.  
+When designing a new course, it should be defined as [Open and FAIR](../develop/FAIR-training-flowchart/flowchart_description.md) from the beginning.  
 
 ## Create new content for the course  
 
@@ -24,7 +24,7 @@ A new course requires a lot of work to create the course content, never underest
     
     v. encourage Trainer(s) to make their material open and FAIR,  
 
-    vi. Discuss the exam that the Trainer(s) will give (See more about [Exam options](../topics/ECTS_exam.md)).  
+    vi. Discuss the exam that the Trainer(s) will give (See more about [Exam options](../evaluate/ECTS_exam.md)).  
 
 2. The Trainer(s) designs the structure of the course according to the length, level and format.  
 
@@ -57,6 +57,6 @@ The next steps must be completed for both new and existing courses:
 
 2. The Trainer(s) communicates with the Manager about the software / package(s) to be installed in advance by the participants and the possible instructions, and assignment preparation (Send practical information to registered participants)  
 
-3. If an exam is proposed (see [Exam](../topics/ECTS_exam.md)), the Trainer(s) prepares an exam corresponding to the content and matching the number of ECTS (See [ECTS credits and Exam](../topics/ECTS_exam.md)).  
+3. If an exam is proposed (see [Exam](../evaluate/ECTS_exam.md)), the Trainer(s) prepares an exam corresponding to the content and matching the number of ECTS (See [ECTS credits and Exam](../evaluate/ECTS_exam.md)).  
 
-4. The Trainer(s) make the course materials available at least few days before the course and inform the Manager who will share this information with the course Participants. If the course is a repetition, then the course materials should be available before (see [Make course materials open and FAIR](../topics/FAIR-training-flowchart/flowchart_description.md)).
+4. The Trainer(s) make the course materials available at least few days before the course and inform the Manager who will share this information with the course Participants. If the course is a repetition, then the course materials should be available before (see [Make course materials open and FAIR](../develop/FAIR-training-flowchart/flowchart_description.md)).

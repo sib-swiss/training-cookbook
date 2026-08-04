@@ -10,4 +10,4 @@ Note that:
 
 1. googledocs have been replaced with shared Word files to share information with the Participants,  
 
-2. the feedback forms in the Moodle have been replaced with the Forms files to share information with the Admin. (See [Feedback Form](../course_coordination/feedback.md)).
+2. the feedback forms in the Moodle have been replaced with the Forms files to share information with the Admin. (See [Feedback Form](../evaluate/feedback.md)).

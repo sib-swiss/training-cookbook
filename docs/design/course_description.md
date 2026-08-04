@@ -60,7 +60,7 @@ The following fields should be reviewed and changed, if necessary (it is wise to
 
     - Number of hours should be modified if the course length has been modified (Start date and End date above). 
 
-    - ECTS should be modified if the course length has been modified: Start date and End date above (See [ECTS credits](../../topics/ECTS_exam.md)). 
+    - ECTS should be modified if the course length has been modified: Start date and End date above (See [ECTS credits](../evaluate/ECTS_exam.md)). 
 
 4. In Description and requirements: 
 
@@ -144,7 +144,7 @@ As soon as possible, but no later than 2 months before the start of the course, 
 
     - Number of hours should be entered. Usually count 7 h/day of course, as this value does not include breaks.  
 
-    - If there will be an exam or evaluation, the ECTS should be entered. For each day of course, 0.25 ECTS should be counted, and the appropriate number entered based on the Start date and End date (See [Design the course](../../procedures/design_course.md)). 
+    - If there will be an exam or evaluation, the ECTS should be entered. For each day of course, 0.25 ECTS should be counted, and the appropriate number entered based on the Start date and End date (See [Design the course](design_course.md)). 
 
 3. In Description and requirements, replace the text “More details will follow.” with a full description written following concertation with the Trainer.  
 
@@ -162,4 +162,4 @@ The next step is to open and announce the course.
 
 ## Courseadmin: 
 
-With only a few exceptions, the fields in courseadmin are mandatory. They have a reason to be there. For instance, the field Metadescription, maximum of 150 characters, is needed for the Google indexing. The SIB web tags are needed for the search in the SIB website. See [Metadata mapping](../../topics/metadata.md).
+With only a few exceptions, the fields in courseadmin are mandatory. They have a reason to be there. For instance, the field Metadescription, maximum of 150 characters, is needed for the Google indexing. The SIB web tags are needed for the search in the SIB website. See [Metadata mapping](../develop/metadata.md).

@@ -2,57 +2,57 @@ site_name: SIB Training Cookbook
 nav:
   - Home: index.md
   - Plan:
-    - Identify and assess training needs: topics/training_needs.md 
-    - Course Programme and Planning: procedures/course_programme.md
-    - Call for New Courses: procedures/call_new_courses.md
+    - Identify and assess training needs: plan/training_needs.md
+    - Course Programme and Planning: plan/course_programme.md
+    - Call for New Courses: plan/call_new_courses.md
 
   - Design:
     # merge the course design pages below
-    - Course Design: topics/course_design.md
-    - Design the Course: procedures/design_course.md
-    - Types of courses: procedures/delivering_course/type_course.md
-    - Course Description: procedures/course_coordination/course_description.md
+    - Course Design: design/course_design.md
+    - Design the Course: design/design_course.md
+    - Types of courses: design/type_course.md
+    - Course Description: design/course_description.md
 
   - Develop:
-    - Course material life cycle: procedures/course_material.md
+    - Course material life cycle: develop/course_material.md
     # merge the metadata page with the FAIR page
-    - Make course materials open and FAIR: topics/FAIR-training-flowchart/flowchart_description.md
-    - Metadata mapping: topics/metadata.md
+    - Make course materials open and FAIR: develop/FAIR-training-flowchart/flowchart_description.md
+    - Metadata mapping: develop/metadata.md
   - Deliver:
   # course coordination could become one page or less pages
     - Course instance coordination:
-      - Open and announce the course: procedures/course_coordination/participants/open_course.md
-      - Register Participants: procedures/course_coordination/participants/register_participants.md
-      - Manage Payments: procedures/course_coordination/participants/manage_payments.md
-      - Send practical information to registered participants: procedures/course_coordination/participants/send_info.md
-      - Attendance list and exams: procedures/course_coordination/participants/attendance_exam.md
-      - Thank participants: procedures/course_coordination/participants/thank_participants.md
-      - Update courseadmin (after course): procedures/course_coordination/participants/after_course.md
-      - Certificates: procedures/course_coordination/participants/certificate.md
-      - Record Lectures: procedures/course_coordination/record_lectures.md
-      - Course Administrative tasks: procedures/course_coordination/admin_tasks.md
-      - Reimbursements: procedures/course_coordination/reimbursements.md
-      - Course Locations: procedures/course_coordination/course_location.md
-    - Delivering the Course: procedures/delivering_course/deliver_course.md
+      - Open and announce the course: deliver/course_instance_coordination/open_course.md
+      - Register Participants: deliver/course_instance_coordination/register_participants.md
+      - Manage Payments: deliver/course_instance_coordination/manage_payments.md
+      - Send practical information to registered participants: deliver/course_instance_coordination/send_info.md
+      - Attendance list and exams: deliver/course_instance_coordination/attendance_exam.md
+      - Thank participants: deliver/course_instance_coordination/thank_participants.md
+      - Update courseadmin (after course): deliver/course_instance_coordination/after_course.md
+      - Certificates: deliver/course_instance_coordination/certificate.md
+      - Record Lectures: deliver/course_instance_coordination/record_lectures.md
+      - Course Administrative tasks: deliver/course_instance_coordination/admin_tasks.md
+      - Reimbursements: deliver/course_instance_coordination/reimbursements.md
+      - Course Locations: deliver/course_instance_coordination/course_location.md
+    - Delivering the Course: deliver/deliver_course.md
   - Evaluate:
-    -  ECTS credits and Exam: topics/ECTS_exam.md
+    -  ECTS credits and Exam: evaluate/ECTS_exam.md
     # merge evaluation and feedback
-    - Course Evaluation: topics/course_evaluation.md
-    - Feedback: procedures/course_coordination/feedback.md
-  # E-learning could be combined in one page   
+    - Course Evaluation: evaluate/course_evaluation.md
+    - Feedback: evaluate/feedback.md
+  # E-learning could be combined in one page
   - E-learning:
     - Plan:
-      - Identify and assess e-learning needs: topics/elearning/elearning_needs.md
-      - E-learning plan: topics/elearning/elearning_plan.md
+      - Identify and assess e-learning needs: elearning/plan/elearning_needs.md
+      - E-learning plan: elearning/plan/elearning_plan.md
     - Design:
-      - E-learning design: topics/elearning/elearning_design.md
+      - E-learning design: elearning/design/elearning_design.md
     - Develop:
-      - E-learning material: topics/elearning/elearning_material.md
-      - Make e-learning materials open and FAIR: topics/elearning/elearning_openandFAIR.md
+      - E-learning material: elearning/develop/elearning_material.md
+      - Make e-learning materials open and FAIR: elearning/develop/elearning_openandFAIR.md
     - Deliver:
-      - Course coordination: topics/elearning/elearning_coordination.md
+      - Course coordination: elearning/deliver/elearning_coordination.md
     - Evaluate:
-      - E-learning evaluation: topics/elearning/elearning_evaluation.md
+      - E-learning evaluation: elearning/evaluate/elearning_evaluation.md
   - Glossary: Glossary.md
 
 watch:

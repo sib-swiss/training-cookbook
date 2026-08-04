@@ -10,7 +10,7 @@ The Manager or the Trainer(s) will bring:
 
 - Post-it® that Participant can put on their computers to signal they have finished the exercise  
 
-- The attendance forms that must be signed by the Participants on each day of the course (See [Attendance list and exams](../course_coordination/participants/attendance_exam.md))  
+- The attendance forms that must be signed by the Participants on each day of the course (See [Attendance list and exams](../deliver/course_instance_coordination/attendance_exam.md))  
 
 The Trainer(s) will test the beamer.  
 
